@@ -10,7 +10,8 @@
     <title>Sewu88slot - Destinasi Slot Online Terpercaya Dengan Keamanan Tinggi | Daftar Disini</title>
     <meta name="description"
         content="Sewu88slot adalah destinasi slot online terpercaya yang menawarkan keamanan tingkat tinggi, permainan fair play, dan pengalaman bermain terbaik. Daftar sekarang untuk akses cepat, bonus menarik, dan kemenangan maksimal setiap hari.">
-    <link rel="canonical" href="https://digitas.my/contact-us">
+    <link rel="canonical" href="https://loja.adluxmanaus.com.br/">
+    <link rel="amphtml" href="https://loja.adluxmanaus.com.br/amp/">
     <link rel="alternate" href="https://x21.specialistmkx.id/sewu88x" hreflang="ja">
     <link rel="alternate" href="https://x21.specialistmkx.id/sewu88x" hreflang="en">
     <link rel="alternate" href="https://x21.specialistmkx.id/sewu88x" hreflang="zh-Hant">
@@ -50,7 +51,7 @@
         content="Sewu88slot adalah destinasi slot online terpercaya yang menawarkan keamanan tingkat tinggi, permainan fair play, dan pengalaman bermain terbaik. Daftar sekarang untuk akses cepat, bonus menarik, dan kemenangan maksimal setiap hari.">
     <meta property="og:price:amount" content="5,000-,">
     <meta property="og:price:currency" content="IDR">
-    <meta property="og:url" content="https://digitas.my/contact-us">
+    <meta property="og:url" content="https://loja.adluxmanaus.com.br/">
     <meta property="og:site_name" content="SEWU88SLOT">
     <meta name="twitter:site" content="@SEWU88SLOT">
     <meta name="twitter:card" content="summary">
@@ -802,7 +803,7 @@
     <script src="//code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
     <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/15896833/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="https://digitas.my/contact-us.oembed">
+    <link rel="alternate" type="application/json+oembed" href="https://loja.adluxmanaus.com.br/.oembed">
     <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
     <script id="shopify-features"
         type="application/json">{"accessToken":"d2e176e59f6658d5056234d6249b3ab4","betas":["rich-media-storefront-analytics"],"domain":"outerbloom.com","predictiveSearch":true,"shopId":15896833,"locale":"en"}</script>
@@ -1132,7 +1133,7 @@
 
 
                     <div class="notification__message text-center">
-                        <p><a href="https://digitas.my/contact-us"
+                        <p><a href="https://loja.adluxmanaus.com.br/"
                                 title="SEWU88SLOT Situs SlotTerbaik dan Terpercaya">SEWU88SLOT Situs SlotTerbaik dan
                                 Terpercaya</a></p>
                     </div>
@@ -1152,7 +1153,7 @@
                 style="background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEjV7eEiokXO74_3jxgo5SomGH2tjca2o1x4qq5jxtyBSjI6XqdlA5DOZkVa0eFz3yljeV_Aisz4FIEisx1_u42ahyLrrxfM-uRneDsR_FIW8V_vHnsdmvbxb9_xMnsFOAJeBGbcZZND9OnfKEkIMJ43BXH45ndEne3rTCc10pYL6_gqWwPDoM5QDEZoMjuk); background-attachment: fixed;">
                 <div class="container">
                     <div class="header-container row justify-content-between pl-lg-0 pr-lg-0">
-                        <a href="https://digitas.my/contact-us">
+                        <a href="https://loja.adluxmanaus.com.br/">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
                                 alt="logo-SEWU88SLOT" style="width: 190px;" class="initial loaded"
                                 data-was-processed="true" /></a>
@@ -1211,7 +1212,7 @@
 
                         <div class="header-icon-right header-icons col-3">
                             <div class="icon icon-account-header d-none d-lg-block">
-                                <a href="https://digitas.my/contact-us">
+                                <a href="https://loja.adluxmanaus.com.br/">
                                     <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
                                         width="20" height="21" viewBox="0 0 20 21" fill="none">
                                         <path
@@ -1227,7 +1228,7 @@
                                 </a>
                             </div>
                             <div class="icon icon-wishlist-header">
-                                <a href="https://digitas.my/contact-us">
+                                <a href="https://loja.adluxmanaus.com.br/">
                                     <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
                                         width="24" height="21" viewBox="0 0 24 21" fill="none">
                                         <path
@@ -1240,7 +1241,7 @@
                                 </a>
                             </div>
                             <div class="icon icon-cart-header">
-                                <a href="https://digitas.my/contact-us">
+                                <a href="https://loja.adluxmanaus.com.br/">
                                     <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
                                         width="22" height="21" viewBox="0 0 22 21" fill="none">
                                         <path
@@ -1265,7 +1266,7 @@
                     <div class="col-6 welcome-cust p-0">
 
                         <h1 class="logo">
-                            <a href="https://digitas.my/contact-us">
+                            <a href="https://loja.adluxmanaus.com.br/">
                                 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
                                     alt="SEWU88SLOT" style="max-height:60px;">
                             </a>
@@ -1417,10 +1418,10 @@
                 </a></li>
                 </ul>
             </nav>
-        </div><a href="https://digitas.my/contact-us">
+        </div><a href="https://loja.adluxmanaus.com.br/">
 
         </a>
-        <div id="shopify-section-search-popup" class="shopify-section m-0"><a href="https://digitas.my/contact-us">
+        <div id="shopify-section-search-popup" class="shopify-section m-0"><a href="https://loja.adluxmanaus.com.br/">
                 <style>
                     #search-trigger {
                         cursor: pointer;
@@ -1908,7 +1909,7 @@
                     }
                 </style>
             </a>
-            <div id="search-popup"><a href="https://digitas.my/contact-us">
+            <div id="search-popup"><a href="https://loja.adluxmanaus.com.br/">
                     <div id="search-input" class="row">
                         <div class="container w-100">
                             <form action="/search" method="get" role="search"
@@ -1938,9 +1939,9 @@
                         </div>
                     </div>
                 </a>
-                <div id="search-result" class="container m-auto"><a href="https://digitas.my/contact-us">
+                <div id="search-result" class="container m-auto"><a href="https://loja.adluxmanaus.com.br/">
                     </a>
-                    <div class="container p-0"><a href="https://digitas.my/contact-us">
+                    <div class="container p-0"><a href="https://loja.adluxmanaus.com.br/">
                             <div class="group-promotion">
                                 <div class="resultsearch">
                                     <div class="row results">
@@ -1972,22 +1973,22 @@
                                 <ul class="last-search"></ul>
                             </div>
                         </a>
-                        <div class="group-recommend"><a href="https://digitas.my/contact-us">
+                        <div class="group-recommend"><a href="https://loja.adluxmanaus.com.br/">
                                 <h3>YOU MAY ALSO LIKE</h3>
 
 
                             </a>
                             <div
                                 class="row popup-recommend c-products-grid infinite-case product-multi- swiper-container-horizontal swiper-container-free-mode swiper-container-android swiper-container-wp8-horizontal">
-                                <a href="https://digitas.my/contact-us">
+                                <a href="https://loja.adluxmanaus.com.br/">
                                 </a>
                                 <div class="swiper-wrapper justify-content-between"
                                     style="margin-left: 1px; transition-duration: 0ms;"><a
-                                        href="https://digitas.my/contact-us">
+                                        href="https://loja.adluxmanaus.com.br/">
 
 
                                     </a>
-                                    <div class="swiper-slide card"><a href="https://digitas.my/contact-us">
+                                    <div class="swiper-slide card"><a href="https://loja.adluxmanaus.com.br/">
 
 
 
@@ -2048,20 +2049,21 @@
 
                                             </div>
 
-                                        </a></div><a href="https://digitas.my/contact-us">
+                                        </a></div><a href="https://loja.adluxmanaus.com.br/">
 
 
 
                                     </a>
-                                    <div class="swiper-slide card"><a href="https://digitas.my/contact-us">
+                                    <div class="swiper-slide card"><a href="https://loja.adluxmanaus.com.br/">
 
 
 
 
                                         </a>
-                                        <div class="products" data-lazy="false"><a href="https://digitas.my/contact-us">
+                                        <div class="products" data-lazy="false"><a
+                                                href="https://loja.adluxmanaus.com.br/">
                                             </a>
-                                            <div class="bg-products"><a href="https://digitas.my/contact-us">
+                                            <div class="bg-products"><a href="https://loja.adluxmanaus.com.br/">
                                                     <div class="wishlist-toggle"
                                                         data-product-handle="mid-autumn-of-joy-mooncake">
                                                         <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
@@ -2898,7 +2900,7 @@
                 </style>
                 <div class="container" style="color: #ffffff;">
                     <ul role="navigation" aria-label="breadcrumbs">
-                        <li><a href="https://digitas.my/contact-us" style="color: #ffffff;">Bandar Togel
+                        <li><a href="https://loja.adluxmanaus.com.br/" style="color: #ffffff;">Bandar Togel
                                 Online</a></li>
                         <li><svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC"
                                 width="7" height="10" viewBox="0 0 7 10" fill="none">
@@ -2927,10 +2929,10 @@
   },
   "sku": "SEWU88SLOT",
   "mpn": "SEWU88SLOT",
-  "url": "https://digitas.my/contact-us",
+  "url": "https://loja.adluxmanaus.com.br/",
   "offers": {
     "@type": "Offer",
-    "url": "https://digitas.my/contact-us",
+    "url": "https://loja.adluxmanaus.com.br/",
     "priceCurrency": "USD",
     "price": "5.00",
     "priceValidUntil": "2026-06-10",
@@ -3037,49 +3039,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "SEWU88SLOT",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SEWU88SLOT LOGIN",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SEWU88SLOT DAFTAR",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Situs SLOT",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "LOGIN SEWU88SLOT",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS MPO",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Situs RESMI",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Sewu88slot - Destinasi Slot Online Terpercaya Dengan Keamanan Tinggi | Daftar Disini",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     }
   ]
 }
@@ -3140,7 +3142,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SEWU88SLOT",
-  "url": "https://digitas.my/contact-us",
+  "url": "https://loja.adluxmanaus.com.br/",
   "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEhgHsa-WQ5BsLFXPNm05IEWrcyALAcm_Ok8OwXYevIqVKNhWBvtWn_Wnsw3-WV8oNad5rA5kKenf0ljpX1tnbw-BYPxaXgMhtVV0UmLH8SO0DcSKKCdZBF2YmyIgZy-mVFE9CzjKhyN1ETvji3rNI2RAZii_3BSZafrJKtjDmbUyQNGhV0aKBOOOX0lYqvC",
   "sameAs": [
     "https://www.facebook.com/SEWU88SLOT",
@@ -3169,7 +3171,7 @@
   ],
   "uploadDate": "2025-09-28T04:19:10-04:00",
   "duration": "PT303",
-  "contentUrl": "https://digitas.my/contact-us"
+  "contentUrl": "https://loja.adluxmanaus.com.br/"
 }
 </script>
 
@@ -3182,7 +3184,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "SEWU88SLOT",
-      "item": "https://digitas.my/contact-us"
+      "item": "https://loja.adluxmanaus.com.br/"
     }
   ]
 }
@@ -3194,27 +3196,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://digitas.my/contact-us#org",
+      "@id": "https://loja.adluxmanaus.com.br/#org",
       "name": "SEWU88SLOT",
-      "url": "https://digitas.my/contact-us",
+      "url": "https://loja.adluxmanaus.com.br/",
       "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjV7eEiokXO74_3jxgo5SomGH2tjca2o1x4qq5jxtyBSjI6XqdlA5DOZkVa0eFz3yljeV_Aisz4FIEisx1_u42ahyLrrxfM-uRneDsR_FIW8V_vHnsdmvbxb9_xMnsFOAJeBGbcZZND9OnfKEkIMJ43BXH45ndEne3rTCc10pYL6_gqWwPDoM5QDEZoMjuk"
     },
     {
       "@type": "WebSite",
-      "@id": "https://digitas.my/contact-us#website",
-      "url": "https://digitas.my/contact-us",
+      "@id": "https://loja.adluxmanaus.com.br/#website",
+      "url": "https://loja.adluxmanaus.com.br/",
       "name": "SEWU88SLOT",
-      "publisher": { "@id": "https://digitas.my/contact-us#org" },
+      "publisher": { "@id": "https://loja.adluxmanaus.com.br/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://digitas.my/contact-us?s={search_term_string}",
+        "target": "https://loja.adluxmanaus.com.br/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://digitas.my/contact-us#app",
+      "@id": "https://loja.adluxmanaus.com.br/#app",
       "name": "SEWU88SLOT",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -3243,7 +3245,7 @@
 
 
                 <div class="product-standing-flower" data-product-type="flowerBoard">
-                    <meta itemprop="url" content="https://digitas.my/contact-us">
+                    <meta itemprop="url" content="https://loja.adluxmanaus.com.br/">
                     <meta itemprop="image"
                         content="https://blogger.googleusercontent.com/img/a/AVvXsEjV7eEiokXO74_3jxgo5SomGH2tjca2o1x4qq5jxtyBSjI6XqdlA5DOZkVa0eFz3yljeV_Aisz4FIEisx1_u42ahyLrrxfM-uRneDsR_FIW8V_vHnsdmvbxb9_xMnsFOAJeBGbcZZND9OnfKEkIMJ43BXH45ndEne3rTCc10pYL6_gqWwPDoM5QDEZoMjuk">
 
@@ -8976,7 +8978,7 @@
 "price": 835000,
 "priceValidUntil": "05-10-2025",
 "priceCurrency": "IDR",
-"url": "https://digitas.my/contact-us"
+"url": "https://loja.adluxmanaus.com.br/"
 },
 "brand": {
 "@type": "Brand",
@@ -8987,7 +8989,7 @@
 "name": "Sewu88slot - Destinasi Slot Online Terpercaya Dengan Keamanan Tinggi | Daftar Disini",
 "description": "Sewu88slot adalah destinasi slot online terpercaya yang menawarkan keamanan tingkat tinggi, permainan fair play, dan pengalaman bermain terbaik. Daftar sekarang untuk akses cepat, bonus menarik, dan kemenangan maksimal setiap hari.",
 "category": "SEWU88SLOT > Slot Gacor > Slot Online",
-"url": "https://digitas.my/contact-us",
+"url": "https://loja.adluxmanaus.com.br/",
 "image": {
 "@type": "ImageObject",
 "url": "https://outerbloom.com/cdn/shop/files/Blossom-Shine-WM_small.jpg?v=1695788426",
