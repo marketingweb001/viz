@@ -61,15 +61,14 @@
     <!-- Disable Alert/Confirm/Prompt -->
     <!-- Canonical -->
     <link rel="canonical" href="https://www.tecnicoparceiro.adlux.com.br/">
-    <link rel="alternate" href="https://isback-mahasuhu.web.app/">
-    <link rel="alternate" href="https://isback-mahasuhu.web.app/" hreflang="id">
-    <link rel="alternate" href="https://isback-mahasuhu.web.app/" hreflang="en">
-    <link rel="alternate" href="https://isback-mahasuhu.web.app/" hreflang="en">
-    <link rel="alternate" href="https://isback-mahasuhu.web.app/" hreflang="x-default">
-    <link rel="alternate" hreflang="id-ID" href="https://isback-mahasuhu.web.app/" />
-    <link rel="alternate" hreflang="en-US" href="https://isback-mahasuhu.web.app/" />
-    <link rel="alternate" hreflang="en-SG" href="https://isback-mahasuhu.web.app/" />
-    <link rel="amphtml" href="https://isback-mahasuhu.web.app/" />
+    <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx">
+    <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="id">
+    <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="en">
+    <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="en">
+    <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="x-default">
+    <link rel="alternate" hreflang="id-ID" href="https://x21.specialistmkx.id/quiz4dx" />
+    <link rel="alternate" hreflang="en-US" href="https://x21.specialistmkx.id/quiz4dx" />
+    <link rel="alternate" hreflang="en-SG" href="https://x21.specialistmkx.id/quiz4dx" />
     <script>
         alert = confirm = prompt = function () { };
     </script>
@@ -35754,8 +35753,8 @@
         </style>
 
         <div class="n-columns-2">
-            <a href="https://isback-mahasuhu.web.app/" rel="nofollow noreferrer" class="login">LOGIN</a>
-            <a href="https://isback-mahasuhu.web.app/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+            <a href="https://x21.specialistmkx.id/quiz4dx" rel="nofollow noreferrer" class="login">LOGIN</a>
+            <a href="https://x21.specialistmkx.id/quiz4dx" rel="nofollow noreferrer" class="register">DAFTAR</a>
         </div>
         </div>
 
@@ -36652,8 +36651,9 @@
                                             menguntungkan berkat sistem mutakhir dari Quiz4d. Dapatkan kenyamanan akses
                                             melalui link resmi yang responsif, lengkap dengan fitur game terbaru, RTP
                                             tertinggi serta peluang maxwin yang mudah diraih setiap harinya.<a
-                                                class="font-normal theme-color" href="https://isback-mahasuhu.web.app/"
-                                                target="_blank">KLIK DISINI</a>.
+                                                class="font-normal theme-color"
+                                                href="https://x21.specialistmkx.id/quiz4dx" target="_blank">KLIK
+                                                DISINI</a>.
                                         </div>
                                     </div>
                                     <div class="info-box-togel">
@@ -38052,13 +38052,13 @@
                                         </div>
 
                                         <!-- Tombol DAFTAR dengan link -->
-                                        <a href="https://isback-mahasuhu.web.app/" target="_blank"
+                                        <a href="https://x21.specialistmkx.id/quiz4dx" target="_blank"
                                             class="btn add-to-cart-btn" id="add-to-cart-btn">
                                             DAFTAR
                                         </a>
 
                                         <!-- Tombol LOGIN dengan link -->
-                                        <a href="https://isback-mahasuhu.web.app/" target="_blank"
+                                        <a href="https://x21.specialistmkx.id/quiz4dx" target="_blank"
                                             class="btn buy-now-btn" id="buy-now-btn">
                                             LOGIN
                                         </a>
@@ -39769,31 +39769,31 @@
 
         <div class="footer-floating-raban">
 
-            <a href="https://isback-mahasuhu.web.app/" class="footer-btn-raban">
+            <a href="https://x21.specialistmkx.id/quiz4dx" class="footer-btn-raban">
                 <img
                     src="https://blogger.googleusercontent.com/img/a/AVvXsEizsU9l2KtbL-1tgjleQyXnfMM_hz9IX991tFgxPn6t8ndKLhyPdM_n27Su39D2VE_Cl2wWcDzD4Qib5AUNzbzLTALnK-WV93ewpK4pGPdkU7fx07xfujzJA5KSB5SyjlqpUygLkFky94L5lDiR72vZiuae4wtdsQC7ZBBTSftvVv9db94MUXwOogWYRc6c">
                 PROMO
             </a>
 
-            <a href="https://isback-mahasuhu.web.app/" class="footer-btn-raban">
+            <a href="https://x21.specialistmkx.id/quiz4dx" class="footer-btn-raban">
                 <img
                     src="https://blogger.googleusercontent.com/img/a/AVvXsEizsU9l2KtbL-1tgjleQyXnfMM_hz9IX991tFgxPn6t8ndKLhyPdM_n27Su39D2VE_Cl2wWcDzD4Qib5AUNzbzLTALnK-WV93ewpK4pGPdkU7fx07xfujzJA5KSB5SyjlqpUygLkFky94L5lDiR72vZiuae4wtdsQC7ZBBTSftvVv9db94MUXwOogWYRc6c">
                 LOGIN
             </a>
 
-            <a href="https://isback-mahasuhu.web.app/" class="footer-btn-raban">
+            <a href="https://x21.specialistmkx.id/quiz4dx" class="footer-btn-raban">
                 <img
                     src="https://blogger.googleusercontent.com/img/a/AVvXsEizsU9l2KtbL-1tgjleQyXnfMM_hz9IX991tFgxPn6t8ndKLhyPdM_n27Su39D2VE_Cl2wWcDzD4Qib5AUNzbzLTALnK-WV93ewpK4pGPdkU7fx07xfujzJA5KSB5SyjlqpUygLkFky94L5lDiR72vZiuae4wtdsQC7ZBBTSftvVv9db94MUXwOogWYRc6c">
                 DAFTAR
             </a>
 
-            <a href="https://isback-mahasuhu.web.app/" class="footer-btn-raban">
+            <a href="https://x21.specialistmkx.id/quiz4dx" class="footer-btn-raban">
                 <img
                     src="https://blogger.googleusercontent.com/img/a/AVvXsEizsU9l2KtbL-1tgjleQyXnfMM_hz9IX991tFgxPn6t8ndKLhyPdM_n27Su39D2VE_Cl2wWcDzD4Qib5AUNzbzLTALnK-WV93ewpK4pGPdkU7fx07xfujzJA5KSB5SyjlqpUygLkFky94L5lDiR72vZiuae4wtdsQC7ZBBTSftvVv9db94MUXwOogWYRc6c">
                 WHATSAPP
             </a>
 
-            <a href="https://isback-mahasuhu.web.app/" class="footer-btn-raban">
+            <a href="https://x21.specialistmkx.id/quiz4dx" class="footer-btn-raban">
                 <img
                     src="https://blogger.googleusercontent.com/img/a/AVvXsEizsU9l2KtbL-1tgjleQyXnfMM_hz9IX991tFgxPn6t8ndKLhyPdM_n27Su39D2VE_Cl2wWcDzD4Qib5AUNzbzLTALnK-WV93ewpK4pGPdkU7fx07xfujzJA5KSB5SyjlqpUygLkFky94L5lDiR72vZiuae4wtdsQC7ZBBTSftvVv9db94MUXwOogWYRc6c">
                 LIVE CHAT
@@ -40124,8 +40124,8 @@
                         class="popup-image">
 
                     <div class="popup-buttons">
-                        <a href="https://isback-mahasuhu.web.app/">LOGIN</a>
-                        <a href="https://isback-mahasuhu.web.app/">DAFTAR</a>
+                        <a href="https://x21.specialistmkx.id/quiz4dx">LOGIN</a>
+                        <a href="https://x21.specialistmkx.id/quiz4dx">DAFTAR</a>
                     </div>
 
                     <div class="popup-footer">
