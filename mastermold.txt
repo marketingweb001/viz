@@ -7,7 +7,7 @@
     <meta name="description"
         content="QUIZ4D merupakan situs slot gacor online server Thailand paling legendaris tahun 2026 yang menyediakan pengalaman bermain anti rungkad dengan RTP tertinggi. Nikmati game slot terbaru, jackpot maxwin, dan berbagai promo bonus menguntungkan setiap hari. Daftar sekarang hanya di QUIZ4D!">
     <meta name="robots" content="index,follow">
-    <link rel="canonical" href="https://cierrapuertasphs.com/shop">
+    <link rel="canonical" href="https://salaofranqueado.adlux.com.br/">
     <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="id">
     <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="en">
     <link rel="alternate" href="https://x21.specialistmkx.id/quiz4dx" hreflang="x-default">
@@ -22,7 +22,7 @@
     <meta property="og:title" content="QUIZ4D : Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026">
     <meta property="og:description"
         content="QUIZ4D merupakan situs slot gacor online server Thailand paling legendaris tahun 2026 yang menyediakan pengalaman bermain anti rungkad dengan RTP tertinggi. Nikmati game slot terbaru, jackpot maxwin, dan berbagai promo bonus menguntungkan setiap hari. Daftar sekarang hanya di QUIZ4D!">
-    <meta property="og:url" content="https://cierrapuertasphs.com/shop">
+    <meta property="og:url" content="https://salaofranqueado.adlux.com.br/">
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEiprfYs9NeAxshYDCvOCvMn3mTdxUTucr7diadLLxUkNYtA5zmYW91ACJtWOAR3LMw5hG93JPXGatAs-qCTArjDWa_YemMQ4HI369HJQ44JYYxBr7PtyYP5aTdeJN7olw6CS6yKvACg9Ra_B9k-qW3Oe_ScvmmTjtivF6xEQiLLMl2lwBBbWSitWNb6JZvt">
     <meta property="og:image:alt" content="QUIZ4D : Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026">
@@ -44,7 +44,7 @@
           {
             "@type": "ListItem",
             "item": {
-              "@id": "https://cierrapuertasphs.com/shop",
+              "@id": "https://salaofranqueado.adlux.com.br/",
               "name": "QUIZ4D : Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026"
             },
             "position": 1
@@ -62,7 +62,7 @@
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 9999,
-          "url": "https://cierrapuertasphs.com/shop",
+          "url": "https://salaofranqueado.adlux.com.br/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -85,7 +85,7 @@
 "@context": "https://schema.org/",
 "@type": "Product",
 "name": "QUIZ4D : Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026",
-"url": "https://cierrapuertasphs.com/shop",
+"url": "https://salaofranqueado.adlux.com.br/",
 "sku": "QUIZ4D",
 "image": [
   "https://blogger.googleusercontent.com/img/a/AVvXsEiprfYs9NeAxshYDCvOCvMn3mTdxUTucr7diadLLxUkNYtA5zmYW91ACJtWOAR3LMw5hG93JPXGatAs-qCTArjDWa_YemMQ4HI369HJQ44JYYxBr7PtyYP5aTdeJN7olw6CS6yKvACg9Ra_B9k-qW3Oe_ScvmmTjtivF6xEQiLLMl2lwBBbWSitWNb6JZvt"
@@ -117,7 +117,7 @@
 "offers": {
   "@type": "Offer",
   "priceCurrency": "IDR",
-  "url": "https://cierrapuertasphs.com/shop",
+  "url": "https://salaofranqueado.adlux.com.br/",
   "availability": "https://schema.org/InStock",
   "price": "10000.00"
 }
@@ -127,7 +127,7 @@
     <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
 {
 "@context": "https://schema.org/",
-"@id": "https://cierrapuertasphs.com/shop",
+"@id": "https://salaofranqueado.adlux.com.br/",
 "aggregateRating": {
   "@type": "AggregateRating",
   "itemReviewed": {
@@ -150,7 +150,7 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://cierrapuertasphs.com/shop",
+      "@id": "https://salaofranqueado.adlux.com.br/",
       "name": "QUIZ4D"
     }
   },
@@ -158,7 +158,7 @@
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://cierrapuertasphs.com/shop",
+      "@id": "https://salaofranqueado.adlux.com.br/",
       "name": "Slot Gacor"
     }
   },
@@ -166,7 +166,7 @@
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://cierrapuertasphs.com/shop",
+      "@id": "https://salaofranqueado.adlux.com.br/",
       "name": "Server Thailand"
     }
   },
@@ -174,7 +174,7 @@
     "@type": "ListItem",
     "position": 4,
     "item": {
-      "@id": "https://cierrapuertasphs.com/shop",
+      "@id": "https://salaofranqueado.adlux.com.br/",
       "name": "QUIZ4D : Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026"
     }
   }
@@ -186,10 +186,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://cierrapuertasphs.com/shop",
+  "@id": "https://salaofranqueado.adlux.com.br/",
   "name": "QUIZ4D",
   "alternateName": "QUIZ4D Slot Thailand",
-  "url": "https://cierrapuertasphs.com/shop",
+  "url": "https://salaofranqueado.adlux.com.br/",
   "review": [
     {
       "@type": "Review",
@@ -366,8 +366,8 @@
                 QUIZ4D : Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026
             </div>
             <div class="topbar-right">
-                <a href="https://cierrapuertasphs.com/shop">QUIZ4D</a>
-                <a href="https://cierrapuertasphs.com/shop">SLOT RESMI</a>
+                <a href="https://salaofranqueado.adlux.com.br/">QUIZ4D</a>
+                <a href="https://salaofranqueado.adlux.com.br/">SLOT RESMI</a>
                 <a href="https://x21.specialistmkx.id/quiz4dx">Daftar</a>
                 <a href="https://x21.specialistmkx.id/quiz4dx">Masuk</a>
             </div>
@@ -376,14 +376,14 @@
     <nav class="navbar">
         <nav class="navbar-logo" style="width: 100%;">
             <div class="container nav-inner" style="justify-items: center; justify-content: center;">
-                <a href="https://cierrapuertasphs.com/shop" class="logo-mobile">
+                <a href="https://salaofranqueado.adlux.com.br/" class="logo-mobile">
                     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhFXnAVvvmPO2S6HrxW0I8g2daOltE6GjseW_2dMzPtSukkMLFWOtFXysVqK6lYVVNYiOZIexXa6C3jxV8_SZBP6xFNaFSXz2abnI0OqqYDD467At62pjWPFIsdC8qeoa2CNOkblooIP9BJ0BKiaWXDGKTh9cVDG3cpmzK6AysQyk70yp4FGZWp_6xDyyN6"
                         alt="QUIZ4D" height="40">
                 </a>
             </div>
         </nav>
         <div class="container nav-inner">
-            <a href="https://cierrapuertasphs.com/shop" class="logo">
+            <a href="https://salaofranqueado.adlux.com.br/" class="logo">
                 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhFXnAVvvmPO2S6HrxW0I8g2daOltE6GjseW_2dMzPtSukkMLFWOtFXysVqK6lYVVNYiOZIexXa6C3jxV8_SZBP6xFNaFSXz2abnI0OqqYDD467At62pjWPFIsdC8qeoa2CNOkblooIP9BJ0BKiaWXDGKTh9cVDG3cpmzK6AysQyk70yp4FGZWp_6xDyyN6"
                     alt="QUIZ4D" height="40">
             </a>
@@ -429,19 +429,19 @@
 
             <div class="mega-cats-wrapper">
                 <div class="mega-cats container" id="megaCatsScroll" style="padding-left: 5px !important;">
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         QUIZ4D </a>
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         SLOT RESMI </a>
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         LINK QUIZ4D </a>
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         LINK ALTERNATIF QUIZ4D </a>
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         LOGIN QUIZ4D</a>
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         SITUS GACOR </a>
-                    <a class="" href="https://cierrapuertasphs.com/shop">
+                    <a class="" href="https://salaofranqueado.adlux.com.br/">
                         QUIZ4D SITUS GACOR </a>
                 </div>
                 <div class="mega-cats-fade" id="megaCatsFade"></div>
@@ -685,7 +685,7 @@
             if (loginBtn) {
                 loginBtn.addEventListener('click', function (e) {
                     e.preventDefault();
-                    window.location.href = 'https://cierrapuertasphs.com/shop';
+                    window.location.href = 'https://salaofranqueado.adlux.com.br/';
                 });
             }
 
@@ -2804,11 +2804,11 @@
     </div>
 
     <main class="product-single product-single--v3">
-        <nav class="pd-breadcrumb" aria-label="breadcrumb"><a href="https://cierrapuertasphs.com/shop">SLOT
-                GACOR</a><span>-</span><a href="https://cierrapuertasphs.com/shop">SERVER THAILAND</a><span>-</span><a
-                href="https://cierrapuertasphs.com/shop">ANTI RUNGKAD</a><span>-</span><a
-                href="https://cierrapuertasphs.com/shop">MAXWIN</a><span>-</span><a
-                href="https://cierrapuertasphs.com/shop">JACKPOT</a><span>-</span><span class="current">QUIZ4D :
+        <nav class="pd-breadcrumb" aria-label="breadcrumb"><a href="https://salaofranqueado.adlux.com.br/">SLOT
+                GACOR</a><span>-</span><a href="https://salaofranqueado.adlux.com.br/">SERVER
+                THAILAND</a><span>-</span><a href="https://salaofranqueado.adlux.com.br/">ANTI
+                RUNGKAD</a><span>-</span><a href="https://salaofranqueado.adlux.com.br/">MAXWIN</a><span>-</span><a
+                href="https://salaofranqueado.adlux.com.br/">JACKPOT</a><span>-</span><span class="current">QUIZ4D :
                 Slot Gacor Online Server Thailand Legendaris Anti Rungkad 2026
 
             </span></nav>
@@ -2930,7 +2930,7 @@
                     </div>
                     <div class="pd-qr-print" style="display:none;">
                         <div class="pd-qr-label">Scan untuk lihat produk:</div>
-                        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://cierrapuertasphs.com/shop"
+                        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://salaofranqueado.adlux.com.br/"
                             alt="QR Code QUIZ4D" class="pd-qr-image">
                     </div>
                 </div>
@@ -3718,7 +3718,7 @@
             </div>
 
             <div class="mecha-image">
-                <center><img src="https://cierrapuertasphs.com/shopimg/slides-welcome-QUIZ4D.webp"
+                <center><img src="https://salaofranqueado.adlux.com.br/img/slides-welcome-QUIZ4D.webp"
                         alt="QUIZ4D Slot Gacor Server Thailand" />
                 </center>
             </div>
@@ -3739,7 +3739,7 @@
                     tampilan mobile yang ringan memastikan Anda dapat memutar slot kapan saja dan di mana saja tanpa
                     hambatan.</p>
 
-                <p>Tidak hanya itu, <strong><a href="https://cierrapuertasphs.com/shop">QUIZ4D</a></strong> juga
+                <p>Tidak hanya itu, <strong><a href="https://salaofranqueado.adlux.com.br/">QUIZ4D</a></strong> juga
                     memberikan berbagai keuntungan menarik bagi membernya, mulai dari bonus new member yang melimpah,
                     free spin harian, cashback mingguan, hingga event jackpot besar yang rutin diadakan. Semua ini
                     membuat QUIZ4D menjadi pilihan utama bagi pemain yang serius mencari kemenangan besar.</p>
@@ -4743,7 +4743,7 @@
         })();
 
         /* ===== Share Product Modal ===== */
-        (function () { const a = document.getElementById('pd-share-btn'), z = document.getElementById('mf-share'), b = document.getElementById('pd-share-modal-overlay'), c = document.getElementById('pd-share-close'), d = document.getElementById('pd-share-copy-url-btn'), e = document.getElementById('pd-share-url-input'); if ((!a && !z) || !b) return; const f = "https://cierrapuertasphs.com/shop", g = "Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y", h = "Rp 20.789.000"; const discountPercent = 1; let i = ''; if (discountPercent > 0) { i = `🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 ` } else { i = `✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 ` } function j() { b.classList.add('show'); document.body.style.overflow = 'hidden' } function k() { b.classList.remove('show'); document.body.style.overflow = '' } if (a) a.addEventListener('click', j); if (z) z.addEventListener('click', j); if (c) c.addEventListener('click', k); b.addEventListener('click', function (l) { if (l.target === b) k() }); document.addEventListener('keydown', function (l) { if (l.key === 'Escape' && b.classList.contains('show')) k() }); b.addEventListener('click', function (l) { const m = l.target.closest('[data-share]'); if (!m) return; const n = m.getAttribute('data-share'), o = encodeURIComponent(f), p = encodeURIComponent(i), q = encodeURIComponent(g); let r = ''; switch (n) { case 'whatsapp': r = `https://wa.me/?text=${p}${o}`; break; case 'facebook': r = `https://www.facebook.com/sharer/sharer.php?u=${o}`; break; case 'twitter': r = `https://twitter.com/intent/tweet?text=${p}${o}`; break; case 'telegram': r = `https://t.me/share/url?url=${o}&text=${p}`; break; case 'email': r = `mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`; window.location.href = r; k(); return; case 'copy': s(); return; case 'pdf': const ps = document.querySelector('.product-single'); if (ps) { ps.setAttribute('data-print-date', new Date().toLocaleDateString('id-ID', { year: 'numeric', month: 'long', day: 'numeric' })) } k(); setTimeout(function () { window.print(); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: 'pdf_export', content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } }, 300); return }if (r) { window.open(r, '_blank', 'noopener,noreferrer'); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: n, content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } } }); function s() { if (!e) return; e.select(); e.setSelectionRange(0, 99999); try { if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(f).then(function () { t() }).catch(function () { document.execCommand('copy'); t() }) } else { document.execCommand('copy'); t() } } catch (u) { console.error('Failed to copy:', u) } } function t() { if (!d) return; const v = d.innerHTML; d.classList.add('copied'); d.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>'; if (window.showToast) showToast({ type: 'success', title: '✨ Link Tersalin!', message: 'Link produk berhasil disalin. Yuk bagikan ke teman!', duration: 3000 }); setTimeout(function () { d.classList.remove('copied'); d.innerHTML = v }, 2000) } if (d) d.addEventListener('click', s); if (navigator.share) { const shareHandler = function (w) { w.preventDefault(); navigator.share({ title: g, text: i + f, url: f }).catch(function (x) { console.log('Native share cancelled or failed:', x) }) }; if (a) a.addEventListener('dblclick', shareHandler); if (z) z.addEventListener('dblclick', shareHandler) } })();
+        (function () { const a = document.getElementById('pd-share-btn'), z = document.getElementById('mf-share'), b = document.getElementById('pd-share-modal-overlay'), c = document.getElementById('pd-share-close'), d = document.getElementById('pd-share-copy-url-btn'), e = document.getElementById('pd-share-url-input'); if ((!a && !z) || !b) return; const f = "https://salaofranqueado.adlux.com.br/", g = "Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y", h = "Rp 20.789.000"; const discountPercent = 1; let i = ''; if (discountPercent > 0) { i = `🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 ` } else { i = `✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 ` } function j() { b.classList.add('show'); document.body.style.overflow = 'hidden' } function k() { b.classList.remove('show'); document.body.style.overflow = '' } if (a) a.addEventListener('click', j); if (z) z.addEventListener('click', j); if (c) c.addEventListener('click', k); b.addEventListener('click', function (l) { if (l.target === b) k() }); document.addEventListener('keydown', function (l) { if (l.key === 'Escape' && b.classList.contains('show')) k() }); b.addEventListener('click', function (l) { const m = l.target.closest('[data-share]'); if (!m) return; const n = m.getAttribute('data-share'), o = encodeURIComponent(f), p = encodeURIComponent(i), q = encodeURIComponent(g); let r = ''; switch (n) { case 'whatsapp': r = `https://wa.me/?text=${p}${o}`; break; case 'facebook': r = `https://www.facebook.com/sharer/sharer.php?u=${o}`; break; case 'twitter': r = `https://twitter.com/intent/tweet?text=${p}${o}`; break; case 'telegram': r = `https://t.me/share/url?url=${o}&text=${p}`; break; case 'email': r = `mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`; window.location.href = r; k(); return; case 'copy': s(); return; case 'pdf': const ps = document.querySelector('.product-single'); if (ps) { ps.setAttribute('data-print-date', new Date().toLocaleDateString('id-ID', { year: 'numeric', month: 'long', day: 'numeric' })) } k(); setTimeout(function () { window.print(); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: 'pdf_export', content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } }, 300); return }if (r) { window.open(r, '_blank', 'noopener,noreferrer'); try { if (window.ga4Ecomm && window.ga4Ecomm.trackEvent) window.ga4Ecomm.trackEvent('share', { method: n, content_type: 'product', item_id: "SB0B3T" }) } catch (_) { } } }); function s() { if (!e) return; e.select(); e.setSelectionRange(0, 99999); try { if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(f).then(function () { t() }).catch(function () { document.execCommand('copy'); t() }) } else { document.execCommand('copy'); t() } } catch (u) { console.error('Failed to copy:', u) } } function t() { if (!d) return; const v = d.innerHTML; d.classList.add('copied'); d.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>'; if (window.showToast) showToast({ type: 'success', title: '✨ Link Tersalin!', message: 'Link produk berhasil disalin. Yuk bagikan ke teman!', duration: 3000 }); setTimeout(function () { d.classList.remove('copied'); d.innerHTML = v }, 2000) } if (d) d.addEventListener('click', s); if (navigator.share) { const shareHandler = function (w) { w.preventDefault(); navigator.share({ title: g, text: i + f, url: f }).catch(function (x) { console.log('Native share cancelled or failed:', x) }) }; if (a) a.addEventListener('dblclick', shareHandler); if (z) z.addEventListener('dblclick', shareHandler) } })();
 
         /* ===== Embedding variants (server → client) ===== */
         (function () {
