@@ -2471,7 +2471,7 @@
         <div class='m-footer__legal-bar-container wrapper'>
             <div class='m-footer__legal-bar-header'>
                 <div class='m-footer__legal-bar-header-copyright'>
-                    SEO TOGAMEEE
+                    SGTeam
                 </div>
                 <div class='m-footer__legal-bar-header-browse-preferences'>
                     <button type="button"
