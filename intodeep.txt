@@ -1162,8 +1162,8 @@
             <div class="nv00-gnb-v4__wrap">
                 <div class="nv00-gnb-v4__inner">
                     <div class="nv00-gnb-v4__header">
-                        <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2"
-                            aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://empresa2ag.com/global-styles/">
+                        <a an-ac="gnb" an-ca="navigation" an-la="GAME" an-tr="nv00_gnb-product detail-l0-navigation2"
+                            aria-label="GAME" class="nv00-gnb-v4__logo" href="https://empresa2ag.com/global-styles/">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjyo5km5mfqsAWemlh1XDY7jfGYkMFIKKulYFe4y4ihFfJkG2eh2BR7ZRQb_45BDew4qxPhaF_0GRSIUI8FpbMDqiPdJFVL3-aCc3PeMFRqVUINxiMgJpfLnzsqcjCiU637fpYxRNOjUI6iFDunHxxL1grQ8uamlc7x2rm4rQ50EF_n2BCMPdOcwnFxBYlq"
                                 alt="" width="200" height="86">
                         </a>
@@ -1971,8 +1971,8 @@
                                                 href="https://www.samsung.com/id/members/" role="menuitem">
                                                 Members
                                             </a>
-                                            <a an-ac="gnb" an-ca="account" an-la="SLOT"
-                                                an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT"
+                                            <a an-ac="gnb" an-ca="account" an-la="GAME"
+                                                an-tr="nv00_gnb-product detail-account-account" aria-label="GAME"
                                                 class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu"
                                                 href="https://empresa2ag.com/global-styles/" role="menuitem">
                                                 MOBILE GAME
@@ -5679,7 +5679,7 @@
         <!-- N -->
         <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo"
             type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Situs SLOT","image":"https://blogger.googleusercontent.com/img/a/AVvXsEiIofHVirEYT-1FCIAh44cXfyX1pFenxGWmTOAYn6Tyy6bXLRnNT0D--8_E_EkTiPMaFaQZEMP5t79M9KNbLMbJGTHlPS4mq8EzpX3k2MXmBvyvzifN3hZxipFkpgWR6AybiKyZl87CloQZvrOAclMv2CoXmtYWIB4fJ297-kgPwJSI3VynMLqZ7bbJFKcp","description":"NETIZEN303 - Temukan review game strategi terbaik beserta insight langsung dari komunitas player. Pelajari keunggulan, fitur lengkap, rekomendasi game terbaru, dan strategi menang paling akurat tahun 2026.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Situs GAME","image":"https://blogger.googleusercontent.com/img/a/AVvXsEiIofHVirEYT-1FCIAh44cXfyX1pFenxGWmTOAYn6Tyy6bXLRnNT0D--8_E_EkTiPMaFaQZEMP5t79M9KNbLMbJGTHlPS4mq8EzpX3k2MXmBvyvzifN3hZxipFkpgWR6AybiKyZl87CloQZvrOAclMv2CoXmtYWIB4fJ297-kgPwJSI3VynMLqZ7bbJFKcp","description":"NETIZEN303 - Temukan review game strategi terbaik beserta insight langsung dari komunitas player. Pelajari keunggulan, fitur lengkap, rekomendasi game terbaru, dan strategi menang paling akurat tahun 2026.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
         <!--googleoff: all true-->
         <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -5689,7 +5689,7 @@
                     <div class="summary">
                         <div class="summary__product-wrap">
                             <strong class="summary__product-name">
-                                SLOT
+                                GAME
                             </strong>
                             <p class="summary__product-price" style="display:none;">
                                 {{price.priceWrapper.info.salePriceFormatted}}
@@ -5700,7 +5700,7 @@
                                 Terpercaya
                             </span>
                             <span class="summary__select-option">
-                                SLOT
+                                GAME
                             </span>
                             <span class="summary__select-option">
                                 Terpopuler
@@ -6898,7 +6898,7 @@
                         <use href="#information-error-bold" xlink:href="#information-error-bold">
                         </use>
                     </svg>
-                    Please select SLOT Assured Buyback or no coverage
+                    Please select GAME Assured Buyback or no coverage
                 </p>
                 <div class="pd-select-option__wrap">
                     <ul class="pd-select-option__list pd-select-option__list--wide" role="list">
@@ -6961,7 +6961,7 @@
                 data-sdf-test="{{care.hasComponent}}" data-sdf-unwrap="true">
                 <div class="pd-select-option__headline-wrap">
                     <h3 class="pd-select-option__headline" data-sdf-test="{{care.title}}">
-                        Benefits of SLOT
+                        Benefits of GAME
                     </h3>
                     <button an-ac="pd buying tool" an-ca="option click" an-la="samsung care:learn more"
                         an-tr="hdd02_product info.-product detail-option service selector-option_click"
@@ -7931,7 +7931,7 @@
                 }
             </style>
 
-            <article class="lx-container" aria-label="Artikel SLOT">
+            <article class="lx-container" aria-label="Artikel GAME">
                 <!-- Introduction -->
                 <style>
                     h1 {
@@ -8339,12 +8339,12 @@
                 <script>
                     (function () {
                         // ===== FAQ Accordion (5 sesuai schema) =====
-                        const faqButtons = document.querySelectorAll(".SLOT-container .acc-item");
+                        const faqButtons = document.querySelectorAll(".GAME-container .acc-item");
                         faqButtons.forEach((btn, idx) => {
                             const panel = btn.nextElementSibling;
 
-                            const qId = `SLOT-faq-q-${idx}`;
-                            const pId = `SLOT-faq-p-${idx}`;
+                            const qId = `GAME-faq-q-${idx}`;
+                            const pId = `GAME-faq-p-${idx}`;
                             btn.id = qId;
                             panel.id = pId;
                             btn.setAttribute("aria-controls", pId);
@@ -8545,7 +8545,7 @@
                 </nav>
                 <script data-id="815b4f0e-baa9-42cc-b1f9-b4b995da3ffb" data-object-type="BreadcrumbList" data-type="seo"
                     type="application/ld+json">
-      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/id/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/id/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/id/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.samsung.com/id/smartphones/galaxy-a/","position":4},{"@type":"ListItem","name":"Situs SLOT","item":"","position":5}]}
+      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/id/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/id/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/id/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.samsung.com/id/smartphones/galaxy-a/","position":4},{"@type":"ListItem","name":"Situs GAME","item":"","position":5}]}
      </script>
                 </nav>
                 <div class="pd-g-manufacturer-info-popup">
@@ -8864,7 +8864,7 @@
                                 </div>
                             </div>
 
-                            <!-- ===== COLUMN 5: INFO + ABOUT SLOT ===== -->
+                            <!-- ===== COLUMN 5: INFO + ABOUT GAME ===== -->
                             <div class="footer-column__item">
                                 <!-- Info / Guides -->
                                 <div class="footer-category">
@@ -8912,12 +8912,12 @@
                                     </div>
                                 </div>
 
-                                <!-- About SLOT -->
+                                <!-- About GAME -->
                                 <div class="footer-category">
                                     <p class="footer-category__title" id="footer-category-title-4-2">
                                         About NETIZEN303
                                     </p>
-                                    <a an-ac="footer" an-ca="navigation" an-la="about SLOT"
+                                    <a an-ac="footer" an-ca="navigation" an-la="about GAME"
                                         an-tr="nv01_footer sitemap|menu1Depth"
                                         aria-labelledby="footer-category-title-4-2" class="footer-category__anchor"
                                         href="javascript:void(0);" role="button" an-as="">
@@ -10283,7 +10283,7 @@
                                                 </em>
                                                 <div class="trade-in-learn-more-popup__list-item-text-wrap">
                                                     <span class="trade-in-learn-more-popup__list-item-text-desc">
-                                                        Choose your new SLOT device and tell us about your old one.
+                                                        Choose your new GAME device and tell us about your old one.
                                                         <br>
                                                         Jika memenuhi syarat, Anda akan melihat taksiran nilai tukar
                                                         tambah.
@@ -10296,7 +10296,7 @@
                                                 </em>
                                                 <div class="trade-in-learn-more-popup__list-item-text-wrap">
                                                     <span class="trade-in-learn-more-popup__list-item-text-desc">
-                                                        Get an upfront discount on the price of your new SLOT device.
+                                                        Get an upfront discount on the price of your new GAME device.
                                                     </span>
                                                 </div>
                                             </li>
@@ -12132,7 +12132,7 @@
                                                         Hardware repairs
                                                     </strong>
                                                     <p class="sc-learn-more-popup__text">
-                                                        Get fast, convenient repairs using genuine SLOT parts, from our
+                                                        Get fast, convenient repairs using genuine GAME parts, from our
                                                         authorized
                                                         technicians.
                                                     </p>
@@ -14796,7 +14796,7 @@
     {"@context":"https://schema.org","@type":"WebPage","name":"NETIZEN303 | Review Game Strategi Recommended dengan Insight dari Para Player","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"NETIZEN303 adalah platform review game strategi terbaik yang merekomendasikan judul-judul paling seru tahun 2026. Dapatkan insight mendalam, tips pro player, dan rekomendasi game strategi yang bikin kamu mendominasi setiap pertandingan.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
    </script>
                 <style>
-                    .SLOT {
+                    .GAME {
                         margin: 0;
                         padding: 0;
                         font-family: 'Playfair Display', 'Segoe UI', serif;
@@ -15287,7 +15287,7 @@
                             style="width: 9px; height: 9px; top: 80%; left: 60%; animation-delay: 6s;"></div>
                         <!-- Border mewah -->
                         <div class="luxury-border"></div>
-                        <div class="SLOT">
+                        <div class="GAME">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiIofHVirEYT-1FCIAh44cXfyX1pFenxGWmTOAYn6Tyy6bXLRnNT0D--8_E_EkTiPMaFaQZEMP5t79M9KNbLMbJGTHlPS4mq8EzpX3k2MXmBvyvzifN3hZxipFkpgWR6AybiKyZl87CloQZvrOAclMv2CoXmtYWIB4fJ297-kgPwJSI3VynMLqZ7bbJFKcp"
                                 alt="Popup Banner" class="popup-image">
                             <div class="clk-btn-sgp" style="font-size: 20px;">
