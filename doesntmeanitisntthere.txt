@@ -49,12 +49,12 @@
         href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
     <link rel="preload" as="font" crossorigin="anonymous"
         href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-    <link rel="amphtml" href="https://animaxquiz4d.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://animaxquiz4d.pages.dev/" />
-    <link rel="alternate" href="https://animaxquiz4d.pages.dev/" />
-    <link rel="alternate" hreflang="id" href="https://animaxquiz4d.pages.dev/" />
-    <link rel="alternate" hreflang="en" href="https://animaxquiz4d.pages.dev/" />
-    <link rel="alternate" hreflang="x-default" href="https://animaxquiz4d.pages.dev/" />
+    <link rel="amphtml" href="https://animaxquiz4dx2.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://animaxquiz4dx2.pages.dev/" />
+    <link rel="alternate" href="https://animaxquiz4dx2.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://animaxquiz4dx2.pages.dev/" />
+    <link rel="alternate" hreflang="en" href="https://animaxquiz4dx2.pages.dev/" />
+    <link rel="alternate" hreflang="x-default" href="https://animaxquiz4dx2.pages.dev/" />
 
     <link rel="icon" type="image/x-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8">
@@ -591,7 +591,7 @@
                             <div class="header_panel_info">
                                 <ul>
                                     <li class="download-app-link">
-                                        <a href="https://animaxquiz4d.pages.dev/">
+                                        <a href="https://animaxquiz4dx2.pages.dev/">
                                             <img width="14" height="14" alt="download icon" loading="lazy"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
                                             download apps
@@ -603,7 +603,7 @@
                                                         download app from:
                                                         <div class="view code app_store">
                                                             <a class="sh-store-link"
-                                                                href="https://animaxquiz4d.pages.dev/" target="_blank"
+                                                                href="https://animaxquiz4dx2.pages.dev/" target="_blank"
                                                                 ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="app store" class="sh-store-link__image"
@@ -612,7 +612,7 @@
                                                         </div>
                                                         <div class="view code play_store">
                                                             <a class="sh-store-link" data-test="google-play-link"
-                                                                href="https://animaxquiz4d.pages.dev/" target="_blank"
+                                                                href="https://animaxquiz4dx2.pages.dev/" target="_blank"
                                                                 ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="google play" class="sh-store-link__image"
@@ -626,7 +626,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="https://animaxquiz4d.pages.dev/">
+                                        <a href="https://animaxquiz4dx2.pages.dev/">
                                             <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
                                             gift registry </a>
@@ -730,15 +730,15 @@
                             </div>
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://animaxquiz4d.pages.dev/"><img loading="lazy" width="22"
+                                    <li><a href="https://animaxquiz4dx2.pages.dev/"><img loading="lazy" width="22"
                                                 height="22" alt="store finder icon"
                                                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8">LOGIN</a>
                                     </li>
-                                    <li><a href="https://animaxquiz4d.pages.dev/"><img loading="lazy" width="22"
+                                    <li><a href="https://animaxquiz4dx2.pages.dev/"><img loading="lazy" width="22"
                                                 height="22" alt="Kanmo Circle logo"
                                                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8">DAFTAR</a>
                                     </li>
-                                    <li><a href="https://animaxquiz4d.pages.dev/" target="_blank"><img loading="lazy"
+                                    <li><a href="https://animaxquiz4dx2.pages.dev/" target="_blank"><img loading="lazy"
                                                 width="22" height="22" alt="Whatsapp logo"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">
                                             Contact Us</a></li>
@@ -3189,7 +3189,7 @@ font-size:12px;
                                 <div class="account-label">
                                     <a href="/customer/account" class="account-link">Akun Saya</a>
                                 </div>
-                                <button><a href="https://animaxquiz4d.pages.dev/">Masuk</a></button>
+                                <button><a href="https://animaxquiz4dx2.pages.dev/">Masuk</a></button>
                             </div>
 
                         </div>
@@ -3319,7 +3319,7 @@ font-size:12px;
                     <div class="dropdown switcher-dropdown" data-target="dropdown">
                         <ul class="header links">
                             <li class="link authorization-link loginRevamp" data-label="Atau">
-                                <a href="https://animaxquiz4d.pages.dev/">
+                                <a href="https://animaxquiz4dx2.pages.dev/">
                                     Masuk / buat akun </a>
                             </li>
 
@@ -3472,8 +3472,8 @@ font-size:12px;
                 }
             </style>
             <div class="n-columns-2">
-                <a href="https://animaxquiz4d.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://animaxquiz4d.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://animaxquiz4dx2.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://animaxquiz4dx2.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
             </div>
         </div>
         <script type="text/x-magento-init">
@@ -3664,7 +3664,7 @@ font-size:12px;
                                     </div>
                                 </div>
                                 <div class="kc-cashback check">
-                                    <a href="https://animaxquiz4d.pages.dev/" class="kc-points-lable">
+                                    <a href="https://animaxquiz4dx2.pages.dev/" class="kc-points-lable">
                                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8"
                                             class="kcpoints-img" width="30px">
                                         <span>Dapatkan <span class="price">1.000.000</span> - <span
@@ -3697,7 +3697,7 @@ font-size:12px;
                                 <div class="product attribute overview">
                                     <div class="value" style="text-align: justify;">
                                         <p data-start="0">
-                                            <a href="https://animaxquiz4d.pages.dev/">QUIZ4D</a> hadir sebagai
+                                            <a href="https://animaxquiz4dx2.pages.dev/">QUIZ4D</a> hadir sebagai
                                             platform panduan game online yang mengutamakan kemudahan akses dan
                                             kenyamanan pengguna di berbagai perangkat digital. Dengan sistem yang
                                             responsif dan server yang stabil, pengguna dapat menikmati panduan lengkap,
@@ -3766,13 +3766,13 @@ font-size:12px;
                                                         </div>
                                                     </div>
                                                     <div class="actions">
-                                                        <a href="https://animaxquiz4d.pages.dev/"><button type="button"
+                                                        <a href="https://animaxquiz4dx2.pages.dev/"><button type="button"
                                                                 title="add to cart" class="action primary tocart"
                                                                 id="product-addtocart-button"
                                                                 style="background: linear-gradient(135deg, #012d5f, #83c0e9);">
                                                                 <span>LOGIN</span></button></a>
 
-                                                        <a href="https://animaxquiz4d.pages.dev/"
+                                                        <a href="https://animaxquiz4dx2.pages.dev/"
                                                             class="action towishlist"
                                                             data-action="add-to-wishlist"><span>DAFTAR</span></a>
                                                         <script type="text/x-magento-init">
@@ -8074,7 +8074,7 @@ function myFunction() {
                                     data-appearance="default" data-element="main">unduh aplikasi QUIZ4D</h4>
                                 <div class="footer-apple-store-img" data-content-type="html" data-appearance="default"
                                     data-element="main" data-decoded="true"><a
-                                        href="https://animaxquiz4d.pages.dev/"><img width="200" height="60"
+                                        href="https://animaxquiz4dx2.pages.dev/"><img width="200" height="60"
                                             loading="lazy"
                                             src="https://blogger.googleusercontent.com/img/a/AVvXsEgk4wR5gJY7L8uOSw3I6YJKqNMY2NH2EMREVr8w7AOJHMEIl8W14X-Mivhkmls9Y508-6x85gpAM6WhfZNGlsJinmpcTNbZNS9W3C6xVJI2AZVKuRCIqdU1NJs1sbIicMd8bQIsQKnuYfW8jzNJ8KVJIzNvABuuggDSCsdaV7X-Xfkov_MeadgtUGb5Zxk"
                                             alt="download app apple store">
@@ -8197,7 +8197,7 @@ function myFunction() {
 
         <div id="giftreg-message-pdp" style="display: none;">
 
-            <a href="https://animaxquiz4d.pages.dev/" class="notlogingift">
+            <a href="https://animaxquiz4dx2.pages.dev/" class="notlogingift">
                 <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png"
                     alt="">
                 PREDIKSI TOGEL !
@@ -8770,32 +8770,32 @@ function myFunction() {
                 </style>
 
                 <div class="footer-floating-togel4d">
-                    <a href="https://animaxquiz4d.pages.dev/" class="footer-btn-togel4d promo" target="_blank"
+                    <a href="https://animaxquiz4dx2.pages.dev/" class="footer-btn-togel4d promo" target="_blank"
                         rel="nofollow noopener">
                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8"
                             alt="PROMOSI"> PROMO
                     </a>
 
-                    <a href="https://animaxquiz4d.pages.dev/" class="footer-btn-togel4d login" target="_blank"
+                    <a href="https://animaxquiz4dx2.pages.dev/" class="footer-btn-togel4d login" target="_blank"
                         rel="nofollow noopener">
                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8"
                             alt="Login"> LOGIN
                     </a>
 
-                    <a href="https://animaxquiz4d.pages.dev/" class="footer-btn-togel4d daftar" target="_blank"
+                    <a href="https://animaxquiz4dx2.pages.dev/" class="footer-btn-togel4d daftar" target="_blank"
                         rel="nofollow noopener">
                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8"
                             alt="Daftar"> DAFTAR
                     </a>
 
-                    <a href="https://animaxquiz4d.pages.dev/" class="footer-btn-togel4d link" target="_blank"
+                    <a href="https://animaxquiz4dx2.pages.dev/" class="footer-btn-togel4d link" target="_blank"
                         rel="nofollow noopener">
                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8"
                             alt="Link Alternatif"> LINK
                         ALTERNATIF
                     </a>
 
-                    <a href="https://animaxquiz4d.pages.dev/" class="footer-btn-togel4d chat" target="_blank"
+                    <a href="https://animaxquiz4dx2.pages.dev/" class="footer-btn-togel4d chat" target="_blank"
                         rel="nofollow noopener">
                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwYe_LDyXX9CMpGysHBCYubaql1XLRvEiWWGhPNbuS-3sYe-vZWS5y9VOSV7Xiq--mC7WqxkfqhvfTOdMgc4DRgpmbqaagL6Ofcp6KrKJVD5sk_7dUbsB8GNxFzq5-bTUBBjuI1MfU9XY45OTw3c-nGj0xC7cYHZ03w-2kCfUo7Pjtb3UgcuNFGR_n5B8"
                             alt="Live Chat"> LIVE CHAT
@@ -9148,8 +9148,8 @@ function myFunction() {
                                 alt="Popup Banner" class="popup-image" />
 
                             <div class="popup-buttons">
-                                <a href="https://animaxquiz4d.pages.dev/">LOGIN</a>
-                                <a href="https://animaxquiz4d.pages.dev/">DAFTAR</a>
+                                <a href="https://animaxquiz4dx2.pages.dev/">LOGIN</a>
+                                <a href="https://animaxquiz4dx2.pages.dev/">DAFTAR</a>
                             </div>
 
                             <div class="popup-footer">
