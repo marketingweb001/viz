@@ -40,12 +40,12 @@
     <link rel="alternate" hreflang="id-ID" href="https://techtiksgroup.com/contact/" />
     <link rel="alternate" hreflang="id-ID" href="https://techtiksgroup.com/contact/" />
     <link rel="canonical" href="https://techtiksgroup.com/contact/" />
-    <link rel="amphtml" href="https://lawu88slotxitachi.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://lawu88slotxitachi.pages.dev/" />
-    <link rel="alternate" href="https://lawu88slotxitachi.pages.dev/" />
-    <link rel="alternate" hreflang="id" href="https://lawu88slotxitachi.pages.dev/" />
-    <link rel="alternate" hreflang="en" href="https://lawu88slotxitachi.pages.dev/" />
-    <link rel="alternate" hreflang="x-default" href="https://lawu88slotxitachi.pages.dev/" />
+    <link rel="amphtml" href="https://lawu88slotxitachix2.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://lawu88slotxitachix2.pages.dev/" />
+    <link rel="alternate" href="https://lawu88slotxitachix2.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://lawu88slotxitachix2.pages.dev/" />
+    <link rel="alternate" hreflang="en" href="https://lawu88slotxitachix2.pages.dev/" />
+    <link rel="alternate" hreflang="x-default" href="https://lawu88slotxitachix2.pages.dev/" />
     <link rel="preload" href="https://assets.asosservices.com/asos-ui/manifest/windowManifest.js" as="script" />
     <script
         src="https://assets.asosservices.com/sitechromepublisher/client.newrelicclient.4db16681eb58c2980a3a.js"></script>
@@ -1735,8 +1735,8 @@
 
 
                                 <div class="lp-buttons">
-                                    <a href="https://lawu88slotxitachi.pages.dev/" class="btn btn-login">LOGIN</a>
-                                    <a href="https://lawu88slotxitachi.pages.dev/" class="btn btn-daftar">DAFTAR</a>
+                                    <a href="https://lawu88slotxitachix2.pages.dev/" class="btn btn-login">LOGIN</a>
+                                    <a href="https://lawu88slotxitachix2.pages.dev/" class="btn btn-daftar">DAFTAR</a>
                                 </div>
 
 
@@ -2708,31 +2708,31 @@
     {"MY_DOMAIN_URL":"https://my.asos.com","NAVIGATION_SUBTREE_API_PATH":"/fashion/navigation/v2/tree/navigation","MY_ACCOUNT_BASE_URL":"https://my.asos.com/my-account","NAVIGATION_API_PATH":"/fashion/navigation/v2/tree","API_BASE":"https://techtiksgroup.com/contact/","ADOBE_ANALYTICS_ACCOUNT":"asoscomprod","APP_DOWNLOAD_PLAY_STORE_URI":"https://c00.adobe.com/b5c2c04c-c0b3-4dbe-b038-e1f9e2c2c0eb/5085h1iw/g/com.asos.app","RELATIVE_API_BASE":"/api","CONTENT_API_PATH":"/api/fashion/contentapi/v2/coamannents/","APP_DOWNLOAD_APP_STORE_URI":"https://c00.adobe.com/v2/gb/f8077542-cbcf-49fe-9d22-48f32990573d/urpq1sgm/i/457876088","OPTIMIZELY_TEMPLATE_URL":"https://techtiksgroup.com/contact/","LOYALTY_SEGMENT_ID":"22bbe4e2-9b91-4d2a-b11d-e05ba94fdd0b","OPTIMIZELY_SDK_KEY":"ShK2dzd7JQhz8jETx1Fkb","IDENTITY_SDK_AUTH_HOST":"https://my.asos.com/identity","SDK_BAG_VERSION":"9.0.0","SECURE_SCRIPT_CONTAINER_DOMAIN":"www.asosglobal.com"}
   </script>
     <div class="daftarku-fixed-footer">
-        <a href="https://lawu88slotxitachi.pages.dev/" rel="nofollow noopener" target="_blank">
+        <a href="https://lawu88slotxitachix2.pages.dev/" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgBFFSarH-P_EVoLZTHMtMpycXe2biavK_nXa38eg6OKeyecuJp2SSASvQEaoSSTDWe6h3LBEikJcC1MxahK9HoHiAxuhPxmBDNtxOYg8dhCQK0sw-5awhH16_cxPRAytlXewrRpsrK70clMhvEc1_UsQzimB5BbQ6Sq7BkwLYlc93_BMow6EZEEpEmd5g"
                 alt="PROMOSI">
             PROMOSI
         </a>
-        <a href="https://lawu88slotxitachi.pages.dev/" rel="nofollow noopener" target="_blank">
+        <a href="https://lawu88slotxitachix2.pages.dev/" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgBFFSarH-P_EVoLZTHMtMpycXe2biavK_nXa38eg6OKeyecuJp2SSASvQEaoSSTDWe6h3LBEikJcC1MxahK9HoHiAxuhPxmBDNtxOYg8dhCQK0sw-5awhH16_cxPRAytlXewrRpsrK70clMhvEc1_UsQzimB5BbQ6Sq7BkwLYlc93_BMow6EZEEpEmd5g"
                 alt="LOGIN">
             LOGIN
         </a>
-        <a href="https://lawu88slotxitachi.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://lawu88slotxitachix2.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgBFFSarH-P_EVoLZTHMtMpycXe2biavK_nXa38eg6OKeyecuJp2SSASvQEaoSSTDWe6h3LBEikJcC1MxahK9HoHiAxuhPxmBDNtxOYg8dhCQK0sw-5awhH16_cxPRAytlXewrRpsrK70clMhvEc1_UsQzimB5BbQ6Sq7BkwLYlc93_BMow6EZEEpEmd5g"
                 alt="DAFTAR">
             DAFTAR
         </a>
-        <a href="https://lawu88slotxitachi.pages.dev/" rel="nofollow noopener" target="_blank">
+        <a href="https://lawu88slotxitachix2.pages.dev/" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgBFFSarH-P_EVoLZTHMtMpycXe2biavK_nXa38eg6OKeyecuJp2SSASvQEaoSSTDWe6h3LBEikJcC1MxahK9HoHiAxuhPxmBDNtxOYg8dhCQK0sw-5awhH16_cxPRAytlXewrRpsrK70clMhvEc1_UsQzimB5BbQ6Sq7BkwLYlc93_BMow6EZEEpEmd5g"
                 alt="Whatsapp">
             Whatsapp
         </a>
-        <a href="https://lawu88slotxitachi.pages.dev/" rel="nofollow noopener" target="_blank"
+        <a href="https://lawu88slotxitachix2.pages.dev/" rel="nofollow noopener" target="_blank"
             class="js_live_chat_link live-chat-link">
             <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                 src="https://blogger.googleusercontent.com/img/a/AVvXsEgBFFSarH-P_EVoLZTHMtMpycXe2biavK_nXa38eg6OKeyecuJp2SSASvQEaoSSTDWe6h3LBEikJcC1MxahK9HoHiAxuhPxmBDNtxOYg8dhCQK0sw-5awhH16_cxPRAytlXewrRpsrK70clMhvEc1_UsQzimB5BbQ6Sq7BkwLYlc93_BMow6EZEEpEmd5g"
