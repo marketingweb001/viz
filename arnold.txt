@@ -583,7 +583,7 @@
   <div class="page-wrapper">
     <header class="page-header">
       <div class="panel wrapper">
-        <div class="panel header" style="background-color: #1643bb;"><a class="action skip contentarea"
+        <div class="panel header" style="background-color: #4abb16;"><a class="action skip contentarea"
             href="#contentarea">
             <span>
               lewati ke Konten </span>
@@ -3176,7 +3176,7 @@ font-size:12px;
                             <a href="https://lw88ku.pages.dev/">
                               <link rel="alternate" href="https://lw88ku.pages.dev/"><button type="button"
                                 title="add to cart" class="action primary tocart" id="product-addtocart-button"
-                                style="background-color: #0c65ff;">
+                                style="background-color: #51ff0c;">
                                 <span>LOGIN</span></button>
                             </a>
 
@@ -7305,7 +7305,7 @@ function myFunction() {
       <div id="ajaxpro-reinit" data-bind="html: bindBlock('reinit')"></div>
     </div>
     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-      <div style="font-size:12px;background-color:#1643bb;color: #fff;padding: 15px;text-align: center;">&copy;
+      <div style="font-size:12px;background-color:#4abb16;color: #fff;padding: 15px;text-align: center;">&copy;
         Copyright LAWU88SLOT. All Rights Reserved.<div>
           <style>
             @media only screen and (max-width: 768px) {
