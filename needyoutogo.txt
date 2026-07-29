@@ -2,7 +2,7 @@
 <html lang="id">
 
 <head
-  prefix="og: https://www.calmkaaj.org/our-services/ fb: https://www.calmkaaj.org/our-services/ product: https://www.calmkaaj.org/our-services/">
+  prefix="og: https://www.calmkaaj.org/calmkaaj-i-10/ fb: https://www.calmkaaj.org/calmkaaj-i-10/ product: https://www.calmkaaj.org/calmkaaj-i-10/">
   <script data-breeze="1">
     var LOCALE = 'id\u002DID';
     var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -54,11 +54,11 @@
     href="https://blogger.googleusercontent.com/img/a/AVvXsEh5nSovhHqxZBIo1sonvLepBbRrNnpe5apeEy5NTTdmUw0FrSGpW-2cisb59nE98Gyq338-5tUsjZS27wUkUAiswNUDm8_8nOiJ7-Iildg3SJz-BQpSqQJ089n7szgjoAQuPSFErxQeijrsOmYDm87IBfoDk1JQpYkFdE68dzwtX1feEm4StSSco2p8iPQi">
   <link rel="shortcut icon" type="image/x-icon"
     href="https://blogger.googleusercontent.com/img/a/AVvXsEh5nSovhHqxZBIo1sonvLepBbRrNnpe5apeEy5NTTdmUw0FrSGpW-2cisb59nE98Gyq338-5tUsjZS27wUkUAiswNUDm8_8nOiJ7-Iildg3SJz-BQpSqQJ089n7szgjoAQuPSFErxQeijrsOmYDm87IBfoDk1JQpYkFdE68dzwtX1feEm4StSSco2p8iPQi">
-  <link rel="canonical" href="https://www.calmkaaj.org/our-services/">
+  <link rel="canonical" href="https://www.calmkaaj.org/calmkaaj-i-10/">
   <link rel="alternate" hreflang="id-id" href="https://garansiku2026.pages.dev/" />
-  <link rel="alternate" href="https://www.calmkaaj.org/our-services/" />
+  <link rel="alternate" href="https://www.calmkaaj.org/calmkaaj-i-10/" />
   <link rel="alternate" hreflang="id" href="https://garansiku2026.pages.dev/" />
-  <link rel="alternate" hreflang="x-default" href="https://www.calmkaaj.org/our-services/" />
+  <link rel="alternate" hreflang="x-default" href="https://www.calmkaaj.org/calmkaaj-i-10/" />
 
 
   <style>
@@ -204,7 +204,7 @@
     content="https://www.mothercare.co.id/media/catalog/product/1/1/119669web1_1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
   <meta property="og:description"
     content="Netizen303 menghadirkan pengalaman bermain slot online yang lebih tenang dengan bonus slot garansi kekalahan 100%. Temukan cara bermain bijak, pahami risiko, dan manfaatkan promo yang dirancang untuk memberi rasa aman saat beraktivitas di platform digital.">
-  <meta property="og:url" content="https://www.calmkaaj.org/our-services/">
+  <meta property="og:url" content="https://www.calmkaaj.org/calmkaaj-i-10/">
   <meta property="product:price:amount" content="5000">
   <meta property="product:price:currency" content="IDR">
   <script type="text/javascript" id="klevu_initsessiondata">
@@ -773,7 +773,7 @@
       </div>
       <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle
             Nav</span></span>
-        <a class="logo" href="https://www.calmkaaj.org/our-services/" title="" aria-label="store logo">
+        <a class="logo" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="" aria-label="store logo">
           <img
             src="https://blogger.googleusercontent.com/img/a/AVvXsEhpk4G_kZ9-Y9MJWbxpmcuDmNl2uarzkjxx28Vx8xcoZxhArqrgSds3xcFN6HoNc_2onpNUickBQtcDW-Qnira7F5Y708IJJ_Jf5w4CpYX9bWMuVhBWC0kVd-0X9jONYm5BpyzwLPgmlffl9woa163Eq1lZhAbvovKldZ-40d94WoUrtFbjd8STpE40IJRz"
             title="" alt="" width="155" height="28">
@@ -784,19 +784,19 @@
             <div class="top-header-components-mc mobile-component">
               <div class="header_panel_info">
                 <ul>
-                  <li><a href="https://www.calmkaaj.org/our-services/"><span><img loading="lazy" width="22" height="22"
+                  <li><a href="https://www.calmkaaj.org/calmkaaj-i-10/"><span><img loading="lazy" width="22" height="22"
                           alt="Kanmo Circle logo"
                           src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about
                       Kanmo Circle</a></li>
-                  <li><a href="https://www.calmkaaj.org/our-services/"><img loading="lazy" width="22" height="22"
+                  <li><a href="https://www.calmkaaj.org/calmkaaj-i-10/"><img loading="lazy" width="22" height="22"
                         alt="gift registry icon"
                         src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift
                       registry</a></li>
-                  <li><a href="https://www.calmkaaj.org/our-services/"><span><img loading="lazy" width="22" height="22"
+                  <li><a href="https://www.calmkaaj.org/calmkaaj-i-10/"><span><img loading="lazy" width="22" height="22"
                           alt="store finder icon"
                           src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store
                       finder</a></li>
-                  <li><a href="https://www.calmkaaj.org/our-services/" target="_blank"><span><img loading="lazy"
+                  <li><a href="https://www.calmkaaj.org/calmkaaj-i-10/" target="_blank"><span><img loading="lazy"
                           width="22" height="22" alt="Whatsapp logo"
                           src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact
                       us</a></li>
@@ -812,7 +812,7 @@
                   data-toggle-mobile-nav="false">
                   <li id="vesitem-884521742308061573800708"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="font-size:12px;"
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="font-size:12px;"
                       class=" nav-anchor"><span>NETIZEN303</span><span class="caret"></span><span
                         class="opener"></span></a>
                     <div class="submenu animated  dropdown-menu"
@@ -1793,7 +1793,7 @@
                   </li>
                   <li id="vesitem-8845517423080611320572800"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="font-size:12px;white-space: nowrap;"
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="font-size:12px;white-space: nowrap;"
                       class=" nav-anchor"><span>NETIZEN303 LINK</span><span class="caret"></span><span
                         class="opener"></span></a>
                     <div class="submenu animated  dropdown-menu"
@@ -1992,7 +1992,7 @@
                   </li>
                   <li id="vesitem-8845817423080611645503736"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="font-size:12px;white-space: nowrap;"
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="font-size:12px;white-space: nowrap;"
                       class=" nav-anchor"><span>SLOT GARANSI LOGIN</span><span class="caret"></span><span
                         class="opener"></span></a>
                     <div class="submenu animated  dropdown-menu"
@@ -2123,7 +2123,7 @@
                   </li>
                   <li id="vesitem-8846117423080611688273500"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="font-size:12px;white-space: nowrap;"
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="font-size:12px;white-space: nowrap;"
                       class=" nav-anchor"><span>NETIZEN303 SLOT GACOR</span><span class="caret"></span><span
                         class="opener"></span></a>
                     <div class="submenu animated  dropdown-menu"
@@ -2218,7 +2218,7 @@
                   </li>
                   <li id="vesitem-884641742308061459618024"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="font-size:12px;white-space: nowrap;"
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="font-size:12px;white-space: nowrap;"
                       class=" nav-anchor"><span>SLOT GARANSI ALTERNATIF</span><span class="caret"></span><span
                         class="opener"></span></a>
                     <div class="submenu animated  dropdown-menu"
@@ -2365,7 +2365,7 @@
                   </li>
                   <li id="vesitem-8846717423080612122176647"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="max-lines: 2;
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GARANSI LINK ALTERNATIF</span><span
@@ -2492,7 +2492,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GARANSI LINK
                   </li>
                   <li id="vesitem-88470174230806170878408"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" style="white-space: nowrap;
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor"><span>NETIZEN303 SLOT ONLINE</span><span class="caret"></span><span class="opener"></span></a>
                     <div class="submenu animated  dropdown-menu"
@@ -2556,7 +2556,7 @@ font-size:12px;
                   </li>
                   <li id="vesitem-8847317423080612096131144"
                     class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                      href="https://www.calmkaaj.org/our-services/" target="_self" data-hover-color="#fff !important"
+                      href="https://www.calmkaaj.org/calmkaaj-i-10/" target="_self" data-hover-color="#fff !important"
                       data-hover-bgcolor="#9f0000 !important" data-color="#fff !important"
                       data-bgcolor="#9f0000 !important"
                       style="color: #fff !important;background-color: #9f0000 !important;"
@@ -2692,7 +2692,7 @@ font-size:12px;
         </script>
 
         <div class="actions dropdown options switcher-options no-chevron account-dropdown">
-          <a class="action toggle switcher-trigger" href="https://www.calmkaaj.org/our-services/" title="Akun Saya"
+          <a class="action toggle switcher-trigger" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="Akun Saya"
             data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
 
             <span class="abs-visually-hidden">Akun Saya</span>
@@ -2717,12 +2717,12 @@ font-size:12px;
 
 
               <li>
-                <a href="https://www.calmkaaj.org/our-services/">
+                <a href="https://www.calmkaaj.org/calmkaaj-i-10/">
                   buat akun </a>
               </li>
               <li>
 
-                <a href="https://www.calmkaaj.org/our-services/">
+                <a href="https://www.calmkaaj.org/calmkaaj-i-10/">
                   <span>Bantuan</span>
                 </a>
               </li>
@@ -2731,7 +2731,7 @@ font-size:12px;
         </div>
 
         <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-          <a class="action toggle switcher-trigger" href="https://www.calmkaaj.org/our-services/"
+          <a class="action toggle switcher-trigger" href="https://www.calmkaaj.org/calmkaaj-i-10/"
             title="Daftar Keinginan">
 
             <span class="abs-visually-hidden">Daftar Keinginan</span>
@@ -2740,7 +2740,7 @@ font-size:12px;
         </div>
 
         <div data-block="minicart" class="minicart-wrapper">
-          <a class="action showcart" href="https://www.calmkaaj.org/our-services/"
+          <a class="action showcart" href="https://www.calmkaaj.org/calmkaaj-i-10/"
             data-bind="scope: 'minicart_content'">
             <span class="text empty" data-bind="
             css: {
@@ -2990,7 +2990,7 @@ font-size:12px;
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Netizen303",
-  "url": "https://www.calmkaaj.org/our-services/",
+  "url": "https://www.calmkaaj.org/calmkaaj-i-10/",
   "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEhpk4G_kZ9-Y9MJWbxpmcuDmNl2uarzkjxx28Vx8xcoZxhArqrgSds3xcFN6HoNc_2onpNUickBQtcDW-Qnira7F5Y708IJJ_Jf5w4CpYX9bWMuVhBWC0kVd-0X9jONYm5BpyzwLPgmlffl9woa163Eq1lZhAbvovKldZ-40d94WoUrtFbjd8STpE40IJRz",
   "description": "Netizen303 menghadirkan pengalaman bermain slot online yang lebih tenang dengan bonus slot garansi kekalahan 100%. Platform ini membantu pemain memahami risiko digital, memilih layanan dengan lebih bijak, serta memanfaatkan promo yang dirancang untuk memberi rasa aman saat beraktivitas online.",
   "foundingDate": "2024",
@@ -3073,43 +3073,43 @@ font-size:12px;
       "@type": "ListItem",
       "position": 1,
       "name": "Netizen303",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Netizen303 LINK",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Netizen303 LOGIN",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Netizen303 SLOT GARANSI KEKALAHAN 100%",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Netizen303 ALTERNATIF",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Netizen303 LINK ALTERNATIF",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Netizen303 SLOT ONLINE",
-      "item": "https://www.calmkaaj.org/our-services/"
+      "item": "https://www.calmkaaj.org/calmkaaj-i-10/"
     }
   ]
 }
@@ -3189,8 +3189,8 @@ font-size:12px;
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://www.calmkaaj.org/our-services/#website",
-  "url": "https://www.calmkaaj.org/our-services/",
+  "@id": "https://www.calmkaaj.org/calmkaaj-i-10/#website",
+  "url": "https://www.calmkaaj.org/calmkaaj-i-10/",
   "name": "Netizen303",
   "description": "Netizen303 menghadirkan pengalaman bermain slot online yang lebih tenang dengan bonus slot garansi kekalahan 100%. Temukan cara bermain bijak, pahami risiko, dan manfaatkan promo yang dirancang untuk memberi rasa aman saat beraktivitas di platform digital.",
   "inLanguage": "id-ID",
@@ -3238,7 +3238,7 @@ font-size:12px;
 
                 <div class="product attribute overview">
                   <div class="value" style="text-align: justify;">
-                    <p><a href="https://www.calmkaaj.org/our-services/"><span
+                    <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/"><span
                           style="color: #ff0000;">Netizen303</span></a> hadir
                       sebagai platform yang memberikan informasi sekaligus edukasi bagi pengguna agar dapat bermain slot
                       online dengan lebih bijak. Salah satu fokus utamanya adalah pemahaman mengenai bonus slot garansi
@@ -3264,7 +3264,7 @@ font-size:12px;
 
                     <h2>Tips Memilih Situs Online Dengan Lebih Bijak</h2>
 
-                    <p>Dalam memilih situs yang menawarkan <a href="https://www.calmkaaj.org/our-services/"><span
+                    <p>Dalam memilih situs yang menawarkan <a href="https://www.calmkaaj.org/calmkaaj-i-10/"><span
                           style="color: #ff0000;">slot garansi kekalahan 100%</span></a>, pengguna dapat menerapkan
                       beberapa langkah sederhana. Pertama, pastikan alamat situs yang dikunjungi sesuai dengan sumber
                       yang dapat dipercaya dan tidak berasal dari tautan mencurigakan. Kedua, perhatikan detail
@@ -3298,7 +3298,7 @@ font-size:12px;
               </div>
               <div class="product-config">
                 <div class="product-add-form">
-                  <form data-product-sku="52135545-AYO01" action="https://www.calmkaaj.org/our-services/" method="post"
+                  <form data-product-sku="52135545-AYO01" action="https://www.calmkaaj.org/calmkaaj-i-10/" method="post"
                     id="product_addtocart_form">
                     <input type="hidden" name="product" value="600193">
                     <input type="hidden" name="selected_configurable_option" value="">
@@ -3517,25 +3517,25 @@ function myFunction() {
                       width="608" height="608">
                   </div>
 
-                  <a href="https://www.calmkaaj.org/our-services/" class="prev" tabindex="-1">
+                  <a href="https://www.calmkaaj.org/calmkaaj-i-10/" class="prev" tabindex="-1">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                     </svg>
                   </a>
-                  <a href="https://www.calmkaaj.org/our-services/" class="next" tabindex="-1">
+                  <a href="https://www.calmkaaj.org/calmkaaj-i-10/" class="next" tabindex="-1">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                     </svg>
                   </a>
 
                   <div class="controls">
-                    <a href="https://www.calmkaaj.org/our-services/" class="zoom zoom-in">
+                    <a href="https://www.calmkaaj.org/calmkaaj-i-10/" class="zoom zoom-in">
                       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor"
                         stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                       </svg>
                     </a>
-                    <a href="https://www.calmkaaj.org/our-services/" class="zoom zoom-out">
+                    <a href="https://www.calmkaaj.org/calmkaaj-i-10/" class="zoom zoom-out">
                       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor"
                         stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
@@ -3543,7 +3543,7 @@ function myFunction() {
                     </a>
                   </div>
 
-                  <a href="https://www.calmkaaj.org/our-services/" class="close">
+                  <a href="https://www.calmkaaj.org/calmkaaj-i-10/" class="close">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12">
                       </path>
@@ -3552,55 +3552,55 @@ function myFunction() {
                 </div>
 
                 <div class="thumbnails ">
-                  <a class="item active" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item active" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
                     </span>
                   </a>
-                  <a class="item" href="https://www.calmkaaj.org/our-services/" title="View Image">
+                  <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/" title="View Image">
                     <span class="slide-image-container">
                       <img loading="lazy" alt=""
                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhm2b-k1kvTezTJlC8j_LUDxQJCPVamRjv6aKeu3UoNTyTMvNCsUINhT5PBSUZtLlwO4jL0vk9JAm-DZRO3YJqelWhE14bG7hn5exeqJUGiM8WLFRuiex6LClNsEgQbJZeQ8sAss9FkQsaxFcaJuuXvjcta8N6Kxvv54n4epzYFkI5hzFmDtmtttRy7pocq">
@@ -7704,28 +7704,28 @@ function myFunction() {
                 <h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default"
                   data-element="main">Netizen303</h4>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 LINK</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 LINK</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 LOGIN</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 LOGIN</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 SLOT GARANSI KEKALAHAN 100%</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 SLOT GARANSI KEKALAHAN 100%</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 ALTERNATIF</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 ALTERNATIF</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 SLOT ONLINE</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 SLOT ONLINE</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 LOGIN ALTERNATIF</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 LOGIN ALTERNATIF</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">Netizen303 LINK ALTERNATIF</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">Netizen303 LINK ALTERNATIF</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">SLOT GARANSI KEKALAHAN 100%</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">SLOT GARANSI KEKALAHAN 100%</a></p>
                 </div>
               </div>
               <div class="pagebuilder-column need-help-column-mc" data-content-type="column"
@@ -7733,10 +7733,10 @@ function myFunction() {
                 <h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default"
                   data-element="main">butuh bantuan? hubungi kami</h4>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">hubungi kami</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">hubungi kami</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                  <p><a href="https://www.calmkaaj.org/our-services/">bantuan dan faq</a></p>
+                  <p><a href="https://www.calmkaaj.org/calmkaaj-i-10/">bantuan dan faq</a></p>
                 </div>
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                   <p>24 Hours</p>
@@ -7745,13 +7745,13 @@ function myFunction() {
                   <div class="footer-desktop">
                     <p>ikuti kami di media sosial</p>
                     <div style="display:flex;column-gap:20px">
-                      <a class="item" href="https://www.calmkaaj.org/our-services/"><img width="10" height="19"
+                      <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/"><img width="10" height="19"
                           alt="facebook icon"
                           src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-                      <a class="item" href="https://www.calmkaaj.org/our-services/"><img width="24" height="25"
+                      <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/"><img width="24" height="25"
                           alt="instagram icon"
                           src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-                      <a class="item" href="https://www.calmkaaj.org/our-services/"> <img width="24" height="25"
+                      <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/"> <img width="24" height="25"
                           alt="youtube icon"
                           src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
                     </div>
@@ -7805,13 +7805,13 @@ function myFunction() {
                   <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                     <p>ikuti kami di media sosial</p>
                     <div style="display:flex;column-gap:20px;justify-content: center;">
-                      <a class="item" href="https://www.calmkaaj.org/our-services/"><img
+                      <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/"><img
                           src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"
                           alt="facebook icon"></a>
-                      <a class="item" href="https://www.calmkaaj.org/our-services/"><img
+                      <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/"><img
                           src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"
                           alt="instagram icon"></a>
-                      <a class="item" href="https://www.calmkaaj.org/our-services/"> <img
+                      <a class="item" href="https://www.calmkaaj.org/calmkaaj-i-10/"> <img
                           src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"
                           alt="youtube icon"></a>
                     </div>
@@ -7825,7 +7825,7 @@ function myFunction() {
                 <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                   <div class="footer-promo">
                     <span><img loading="lazy" width="359" height="90" src="" alt="mothercare payment method"></span>
-                    <span><a target="_blank" href="https://www.calmkaaj.org/our-services/"><img loading="lazy"
+                    <span><a target="_blank" href="https://www.calmkaaj.org/calmkaaj-i-10/"><img loading="lazy"
                           width="117" height="60" style="max-height: 60px;margin:0 auto 15px;"
                           src="https://blogger.googleusercontent.com/img/a/AVvXsEhpk4G_kZ9-Y9MJWbxpmcuDmNl2uarzkjxx28Vx8xcoZxhArqrgSds3xcFN6HoNc_2onpNUickBQtcDW-Qnira7F5Y708IJJ_Jf5w4CpYX9bWMuVhBWC0kVd-0X9jONYm5BpyzwLPgmlffl9woa163Eq1lZhAbvovKldZ-40d94WoUrtFbjd8STpE40IJRz"
                           alt="iso logo"></a></span>
@@ -7912,7 +7912,7 @@ function myFunction() {
         let dataMinicart = $('#giftreg-message-minicart');
         let datapdp = $('#giftreg-message-pdp');
 
-        let formUrl = 'https://www.calmkaaj.org/our-services/';
+        let formUrl = 'https://www.calmkaaj.org/calmkaaj-i-10/';
 
         // $('.action.showcart').click(function(){
         //  setTimeout(function(){
@@ -8297,7 +8297,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://www.calmkaaj.org/our-services/",
+                                "createUrl": "https://www.calmkaaj.org/calmkaaj-i-10/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
