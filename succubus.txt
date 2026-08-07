@@ -5,10 +5,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <link rel="canonical" href="https://apkdraft.org/home/" />
+  <link rel="canonical" href="https://carc.com.pk/contact-us/" />
   <link rel="amphtml" href="https://lovebanyakbanyakntz303.pages.dev/" />
   <link rel="alternate" hreflang="id" href="https://lovebanyakbanyakntz303.pages.dev/" />
-  <link rel="alternate" hreflang="x-default" href="https://apkdraft.org/home/" />
+  <link rel="alternate" hreflang="x-default" href="https://carc.com.pk/contact-us/" />
   <meta name="robots" content="index, follow, nosnippet">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
@@ -16,7 +16,7 @@
   <meta name="description"
     content="Netizen303 menyediakan link download APK slot gacor terbaru dengan lisensi resmi, tampilan responsif, navigasi mudah, dan pengalaman bermain yang stabil di Indonesia." />
   <meta property="og:site_name" content="NETIZEN303" />
-  <meta property="og:url" content="https://apkdraft.org/home/" />
+  <meta property="og:url" content="https://carc.com.pk/contact-us/" />
   <meta property="og:title" content="Netizen303: Link Download Apk Slot Gacor Terbaru Dengan Lisensi Resmi" />
   <meta property="og:type" content="product" />
   <meta property="og:description"
@@ -244,55 +244,55 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Netizen303",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS Netizen303",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "LINK Netizen303",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Netizen303 LOGIN",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT Netizen303",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "DAFTAR Netizen303",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "BONUS Netizen303",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Netizen303 SLOT",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "Netizen303: Link Download Apk Slot Gacor Terbaru Dengan Lisensi Resmi",
-      "item": "https://apkdraft.org/home/"
+      "item": "https://carc.com.pk/contact-us/"
     }
   ]
 }
@@ -305,13 +305,13 @@
       "@type": "Organization",
       "@id": "https://enurserynepal.com#org",
       "name": "Netizen303",
-      "url": "https://apkdraft.org/home/",
+      "url": "https://carc.com.pk/contact-us/",
       "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjOGVSeGPAJC7GDuQZ1A1GP2InnPXOVUeRVsXf3A0RyG3N85m004Y6iOdkU2kbgrRZrqSYqvH2MCPtjrKmKJUOGQAgJjNdlJ0dyxEt2lSy8Agmeu31zZPf80CYx2XrJiKIBaISFQlNooLdrIVyrzKOasH0NpmVrHHeNbNBUE60vIS4naLqIjalCbVlel_QO"
     },
     {
       "@type": "WebSite",
       "@id": "https://enurserynepal.com#website",
-      "url": "https://apkdraft.org/home/",
+      "url": "https://carc.com.pk/contact-us/",
       "name": "Netizen303",
       "publisher": { "@id": "https://enurserynepal.com#org" },
       "inLanguage": "id-ID",
@@ -1821,7 +1821,7 @@
         </script>
         <div class="header__heading">
           <div class="brand--logo">
-            <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+            <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
               class="header__heading-link link link--text focus-inset" aria-label="Home">
               <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                 <img
@@ -2065,7 +2065,7 @@
                   <details id="Details-HeaderMenu-1" class="mainMenuUpdate2">
                     <summary id="headerCss HeaderMenu-mac" class="header__menu-item list-menu__item link focus-inset"
                       role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-1">
-                      <p><a href="https://apkdraft.org/home/">NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2084,7 +2084,7 @@
                   <details id="Details-HeaderMenu-2" class="mainMenuUpdate2">
                     <summary id="headerCss HeaderMenu-ipad" class="header__menu-item list-menu__item link focus-inset"
                       role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-2">
-                      <p><a href="https://apkdraft.org/home/">LINK NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">LINK NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2103,7 +2103,7 @@
                   <details id="Details-HeaderMenu-3" class="mainMenuUpdate2">
                     <summary id="headerCss HeaderMenu-iphone" class="header__menu-item list-menu__item link focus-inset"
                       role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-3">
-                      <p><a href="https://apkdraft.org/home/">SITUS NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">SITUS NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2122,7 +2122,7 @@
                   <details id="Details-HeaderMenu-4" class="mainMenuUpdate2">
                     <summary id="headerCss HeaderMenu-watch" class="header__menu-item list-menu__item link focus-inset"
                       role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-4">
-                      <p><a href="https://apkdraft.org/home/">SLOT NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">SLOT NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2141,7 +2141,7 @@
                   <details id="Details-HeaderMenu-5" class="mainMenuUpdate2">
                     <summary id="headerCss HeaderMenu-music" class="header__menu-item list-menu__item link focus-inset"
                       role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-5">
-                      <p><a href="https://apkdraft.org/home/">NETIZEN303 LOGIN</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">NETIZEN303 LOGIN</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2161,7 +2161,7 @@
                     <summary id="headerCss HeaderMenu-tv-home"
                       class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false"
                       aria-controls="HeaderMenu-MenuList-6">
-                      <p><a href="https://apkdraft.org/home/">SITUS NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">SITUS NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2181,7 +2181,7 @@
                     <summary id="headerCss HeaderMenu-accessories"
                       class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false"
                       aria-controls="HeaderMenu-MenuList-7">
-                      <p><a href="https://apkdraft.org/home/">LINK ALTERNATIF NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">LINK ALTERNATIF NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2201,7 +2201,7 @@
                     <summary id="headerCss HeaderMenu-services"
                       class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false"
                       aria-controls="HeaderMenu-MenuList-8">
-                      <p><a href="https://apkdraft.org/home/">SITUS NETIZEN303</a></p>
+                      <p><a href="https://carc.com.pk/contact-us/">SITUS NETIZEN303</a></p>
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                         <path fill-rule="evenodd" clip-rule="evenodd"
                           d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
@@ -2233,7 +2233,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "NETIZEN303",
-  "url": "https://apkdraft.org/home/",
+  "url": "https://carc.com.pk/contact-us/",
   "sameAs": [
     "https://www.facebook.com/NETIZEN303",
     "https://www.instagram.com/NETIZEN303/",
@@ -3461,13 +3461,14 @@
                     <p>Netizen303 hadir sebagai platform slot online yang fokus pada kemudahan unduh APK resmi,
                       informasi RTP terkini, serta koleksi permainan dari berbagai provider terkemuka termasuk Pragmatic
                       Play. Melalui link download yang tersedia, pengguna dapat menikmati pengalaman bermain yang stabil
-                      dengan antarmuka responsif dan navigasi yang sederhana.<br /><a href="https://apkdraft.org/home/"
-                        target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p>
+                      dengan antarmuka responsif dan navigasi yang sederhana.<br /><a
+                        href="https://carc.com.pk/contact-us/" target="_blank"
+                        rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p>
                     <modal-opener class="popup_round_border product-popup-modal__opener no-js-hidden"
                       data-modal="#PopupModal-popup_custom_VYxbeD"><button id="ProductPopup-popup_custom_VYxbeD"
                         class="active_seemore text-decoration product-popup-modal__button link" type="button"
                         aria-haspopup="dialog">Pelajari Selengkapnya</button></modal-opener>
-                    <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                    <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                       class="product-popup-modal__button link no-js">Pelajari Selengkapnya</a>
                   </div>
                 </details>
@@ -3539,7 +3540,7 @@
                       <span id="ShareMessage-template--17605519376564__main" class="share-button__message hidden"
                         role="status"> </span>
                       <input type="text" class="field__input" id="ShareUrl-template--17605519376564__main"
-                        value="https://apkdraft.org/home/" placeholder="Link" onclick="this.select();" readonly>
+                        value="https://carc.com.pk/contact-us/" placeholder="Link" onclick="this.select();" readonly>
                       <label class="field__label" for="ShareUrl-template--17605519376564__main">Link</label>
                     </div>
                     <button class="share-button__close hidden no-js-hidden">
@@ -3777,7 +3778,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Netizen303: Link Download Apk Slot Gacor Terbaru Dengan Lisensi Resmi",
-  "url": "https://apkdraft.org/home/",
+  "url": "https://carc.com.pk/contact-us/",
   "image": [
     "https://blogger.googleusercontent.com/img/a/AVvXsEjOGVSeGPAJC7GDuQZ1A1GP2InnPXOVUeRVsXf3A0RyG3N85m004Y6iOdkU2kbgrRZrqSYqvH2MCPtjrKmKJUOGQAgJjNdlJ0dyxEt2lSy8Agmeu31zZPf80CYx2XrJiKIBaISFQlNooLdrIVyrzKOasH0NpmVrHHeNbNBUE60vIS4naLqIjalCbVlel_QO"
   ],
@@ -3795,7 +3796,7 @@
       "availability": "https://schema.org/OutOfStock",
       "price": 300.00,
       "priceCurrency": "SGD",
-      "url": "https://apkdraft.org/home/"
+      "url": "https://carc.com.pk/contact-us/"
     }
   ]
 }
@@ -4896,49 +4897,49 @@
           <div class="panel2">
             <ul class="footer-block__details-content list-unstyled">
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Netizen303
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   LINK Netizen303
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Bocoran Netizen303
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Netizen303 GACOR
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   SITUS Netizen303
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Netizen303 ONLINE
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Netizen303 Hari Ini
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank"
+                <a href="https://carc.com.pk/contact-us/" target="_blank"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Bocoran RTP Netizen303 Hari Ini
                 </a>
@@ -5193,13 +5194,13 @@
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   LINK Netizen303
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   LINK Netizen303
                 </a>
@@ -5222,7 +5223,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://apkdraft.org/home/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://carc.com.pk/contact-us/" target="_blank" rel="nofollow noopener noreferrer"
                   class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   LINK Netizen303
                 </a>
@@ -5511,8 +5512,8 @@
                   </ul>
                 </div>
                 <div class="copyrightCss footer__copyright caption">
-                  <span class="copyright__content">&copy; 2025, <a href="https://apkdraft.org/home/" target="_blank"
-                      title="">NETIZEN303</a></span>
+                  <span class="copyright__content">&copy; 2025, <a href="https://carc.com.pk/contact-us/"
+                      target="_blank" title="">NETIZEN303</a></span>
                   <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer"
                       href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered
                       by Shopify</a></span>
@@ -8331,7 +8332,7 @@
                   <li>Fitur Maxwin Dengan Putaran Terbaik Hari Ini</li>
                 </ul>
               </div>
-              <a class="apple-care-modal__cta" href="https://apkdraft.org/home/" target="_blank"
+              <a class="apple-care-modal__cta" href="https://carc.com.pk/contact-us/" target="_blank"
                 rel="nofollow noopener noreferrer">
                 <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ NETIZEN303</span>
                 <i class="fa-solid fa-angle-right billboard_icon"></i>
