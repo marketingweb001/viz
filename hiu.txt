@@ -99,8 +99,8 @@
     </style>
 
     <link href="https://kratosxnetizen303.pages.dev/" rel="amphtml">
-    <link href="index.html" rel="stylesheet" />
-    <link href="index.html" rel="canonical" />
+    <link href="sobre.php" rel="stylesheet" />
+    <link href="sobre.php" rel="canonical" />
     <link href="img/icon-hd-netizen303.jpg" rel="icon" type="image/x-icon" />
     <link href="asssets/Content/desktop-css3600.css" rel="stylesheet" />
     <link rel="alternate" hreflang="id-id" href="https://kratosxnetizen303.pages.dev/" />
@@ -270,7 +270,7 @@
                             </ul>
                         </div>
                         <div class="topbar-item">
-                            <a href="index.html#" class="search_popup_button">
+                            <a href="sobre.php#" class="search_popup_button">
                                 <i data-icon="search"
                                     style="background-image: url(https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/red-white/desktop/layout/search.svg?v=20250529);"></i>
                             </a>
@@ -2644,7 +2644,7 @@
                         <div data-section="right">
                             <ul class="nav nav-tabs target-tabs" id="popular_providers" role="tablist">
                                 <li role="presentation">
-                                    <a href="index.html#tab-PP" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-PP" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-7.webp?v=20250529"
@@ -2658,7 +2658,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-PGSOFT" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-PGSOFT" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-9.webp?v=20250529"
@@ -2672,7 +2672,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SLOT88" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SLOT88" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-40.webp?v=20250529"
@@ -2686,7 +2686,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-HACKSAW" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-HACKSAW" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-98.webp?v=20250529"
@@ -2700,7 +2700,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-FATPANDA" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-FATPANDA" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-112.webp?v=20250529"
@@ -2714,7 +2714,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-NOLIMITCITY" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-NOLIMITCITY" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-92.webp?v=20250529"
@@ -2728,7 +2728,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-JILI" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-JILI" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-70.webp?v=20250529"
@@ -2742,7 +2742,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-HABANERO" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-HABANERO" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-16.webp?v=20250529"
@@ -2756,7 +2756,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-MICROGAMING" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-MICROGAMING" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-17.webp?v=20250529"
@@ -2770,7 +2770,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-FIVEGG" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-FIVEGG" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-114.webp?v=20250529"
@@ -2784,7 +2784,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-PLAYTECH" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-PLAYTECH" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-2.webp?v=20250529"
@@ -2798,7 +2798,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SPADEGAMING" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SPADEGAMING" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-29.webp?v=20250529"
@@ -2812,7 +2812,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-KINGMIDAS" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-KINGMIDAS" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-116.webp?v=20250529"
@@ -2826,7 +2826,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-FASTSPIN" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-FASTSPIN" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-110.webp?v=20250529"
@@ -2840,7 +2840,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SLOTMANIA" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SLOTMANIA" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-115.webp?v=20250529"
@@ -2854,7 +2854,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-JOKER" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-JOKER" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-6.webp?v=20250529"
@@ -2868,7 +2868,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-FACHAI" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-FACHAI" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-72.webp?v=20250529"
@@ -2882,7 +2882,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-ADVANTPLAY" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-ADVANTPLAY" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-54.webp?v=20250529"
@@ -2896,7 +2896,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SMARTSOFT" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SMARTSOFT" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-108.webp?v=20250529"
@@ -2910,7 +2910,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-NAGAGAMES" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-NAGAGAMES" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-87.webp?v=20250529"
@@ -2924,7 +2924,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-JDB" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-JDB" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-51.webp?v=20250529"
@@ -2938,7 +2938,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-PLAYSTAR" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-PLAYSTAR" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-65.webp?v=20250529"
@@ -2952,7 +2952,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SPINIX" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SPINIX" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-91.webp?v=20250529"
@@ -2966,7 +2966,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-CROWDPLAY" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-CROWDPLAY" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-73.webp?v=20250529"
@@ -2980,7 +2980,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-BIGPOT" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-BIGPOT" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-75.webp?v=20250529"
@@ -2994,7 +2994,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-PGS" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-PGS" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-50.webp?v=20250529"
@@ -3008,7 +3008,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-VPOWER" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-VPOWER" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-77.webp?v=20250529"
@@ -3022,7 +3022,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-WORLDMATCH" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-WORLDMATCH" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-89.webp?v=20250529"
@@ -3036,7 +3036,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-OCTOPLAY" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-OCTOPLAY" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-109.webp?v=20250529"
@@ -3050,7 +3050,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-MARIOCLUB" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-MARIOCLUB" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-80.webp?v=20250529"
@@ -3064,7 +3064,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-DRAGOONSOFT" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-DRAGOONSOFT" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-81.webp?v=20250529"
@@ -3078,7 +3078,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-FUNGAMING" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-FUNGAMING" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-79.webp?v=20250529"
@@ -3092,7 +3092,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SBOFUNKYGAME" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SBOFUNKYGAME" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-35.webp?v=20250529"
@@ -3106,7 +3106,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-LIVE22" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-LIVE22" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-45.webp?v=20250529"
@@ -3120,7 +3120,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SBOCQ9" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SBOCQ9" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-13.webp?v=20250529"
@@ -3134,7 +3134,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-ONLYPLAY" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-ONLYPLAY" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-97.webp?v=20250529"
@@ -3148,7 +3148,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-NETENT" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-NETENT" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-94.webp?v=20250529"
@@ -3162,7 +3162,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-BIGTIMEGAMING" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-BIGTIMEGAMING" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-95.webp?v=20250529"
@@ -3176,7 +3176,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-REDTIGER" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-REDTIGER" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-93.webp?v=20250529"
@@ -3190,7 +3190,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-SKYWIND" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-SKYWIND" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-90.webp?v=20250529"
@@ -3204,7 +3204,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-YGGDRASIL" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-YGGDRASIL" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-42.webp?v=20250529"
@@ -3218,7 +3218,7 @@
                                     </a>
                                 </li>
                                 <li role="presentation">
-                                    <a href="index.html#tab-PLAYNGO" role="tab" data-toggle="tab">
+                                    <a href="sobre.php#tab-PLAYNGO" role="tab" data-toggle="tab">
                                         <picture>
                                             <source
                                                 srcset="https://d2rzzcn1jnr24x.cloudfront.net/Images/v-normad-alpha/menu/desktop/home/provider-menu-3/game-code-18.webp?v=20250529"
@@ -3702,7 +3702,7 @@
                                                 </picture>
                                                 <div class="link-container">
                                                     <a class="free-play"
-                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/index.html?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1356&amp;playmode=demo">
+                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/sobre.php?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1356&amp;playmode=demo">
                                                         COBA
                                                     </a>
                                                     <a href="javascript:registerPopup({ content:&#39;Silahkan login terlebih dahulu.&#39; });"
@@ -3727,7 +3727,7 @@
                                                 </picture>
                                                 <div class="link-container">
                                                     <a class="free-play"
-                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/index.html?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1675&amp;playmode=demo">
+                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/sobre.php?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1675&amp;playmode=demo">
                                                         COBA
                                                     </a>
                                                     <a href="javascript:registerPopup({ content:&#39;Silahkan login terlebih dahulu.&#39; });"
@@ -3752,7 +3752,7 @@
                                                 </picture>
                                                 <div class="link-container">
                                                     <a class="free-play"
-                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/index.html?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1344&amp;playmode=demo">
+                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/sobre.php?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1344&amp;playmode=demo">
                                                         COBA
                                                     </a>
                                                     <a href="javascript:registerPopup({ content:&#39;Silahkan login terlebih dahulu.&#39; });"
@@ -3777,7 +3777,7 @@
                                                 </picture>
                                                 <div class="link-container">
                                                     <a class="free-play"
-                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/index.html?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1693&amp;playmode=demo">
+                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/sobre.php?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1693&amp;playmode=demo">
                                                         COBA
                                                     </a>
                                                     <a href="javascript:registerPopup({ content:&#39;Silahkan login terlebih dahulu.&#39; });"
@@ -3802,7 +3802,7 @@
                                                 </picture>
                                                 <div class="link-container">
                                                     <a class="free-play"
-                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/index.html?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1400&amp;playmode=demo">
+                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/sobre.php?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1400&amp;playmode=demo">
                                                         COBA
                                                     </a>
                                                     <a href="javascript:registerPopup({ content:&#39;Silahkan login terlebih dahulu.&#39; });"
@@ -3827,7 +3827,7 @@
                                                 </picture>
                                                 <div class="link-container">
                                                     <a class="free-play"
-                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/index.html?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1602&amp;playmode=demo">
+                                                        href="https://d24m60q82dzu8y.cloudfront.net/launcher/sobre.php?casinoid=1135&amp;clienttype=mobile&amp;currencycode=IDR&amp;gameid=hsg_hsg_1602&amp;playmode=demo">
                                                         COBA
                                                     </a>
                                                     <a href="javascript:registerPopup({ content:&#39;Silahkan login terlebih dahulu.&#39; });"
@@ -9445,8 +9445,8 @@
                             Daftar Disini
                         </h1>
                         <p style="text-align:justify;">
-                            <strong><a href="index.html">NETIZEN303</a></strong> hadir sebagai platform <strong><a
-                                    href="index.html">SLOT PULSA GACOR</a></strong> terpercaya yang menawarkan kemudahan
+                            <strong><a href="sobre.php">NETIZEN303</a></strong> hadir sebagai platform <strong><a
+                                    href="sobre.php">SLOT PULSA GACOR</a></strong> terpercaya yang menawarkan kemudahan
                             transaksi deposit via pulsa tanpa potongan, pilihan permainan lengkap, serta tingkat
                             kemenangan maxwin yang sangat tinggi. Dengan modal deposit pulsa yang fleksibel dan proses
                             transaksi yang super cepat, setiap pemain memiliki kesempatan emas untuk meraih kemenangan
@@ -9454,7 +9454,7 @@
                         </p>
 
                         <p style="text-align:justify;">
-                            Keunggulan utama dari <strong><a href="index.html">SLOT PULSA GACOR NETIZEN303</a></strong>
+                            Keunggulan utama dari <strong><a href="sobre.php">SLOT PULSA GACOR NETIZEN303</a></strong>
                             adalah dukungan sistem pembayaran terlengkap via pulsa Telkomsel, XL, Axis, dan Tri, serta
                             server permainan premium yang menjamin putaran spin lancar tanpa kendala. Kombinasi peluang
                             maxwin tinggi dan kemudahan deposit via pulsa menjadikan NETIZEN303 sebagai pilihan nomor
@@ -9529,7 +9529,7 @@
                                 <p>
                                     <span>Cari </span><strong><span>Slot Pulsa Gacor</span></strong><span> dengan
                                         kemudahan deposit via pulsa kini semakin praktis bersama </span>
-                                    <a href="index.html">
+                                    <a href="sobre.php">
                                         <strong><u><span>NETIZEN303</span></u></strong>
                                     </a>
                                     <span>. Sebagai </span><strong><span>platform slot pulsa gacor</span></strong><span>
@@ -9564,7 +9564,7 @@
                                         stabil tanpa kendala pemblokiran. Melalui link resmi ini, Anda bisa langsung
                                         login, deposit via pulsa, dan memainkan Slot Pulsa Gacor gampang maxwin kapan
                                         saja. Segera daftarkan akun Anda di </span>
-                                    <a href="index.html">
+                                    <a href="sobre.php">
                                         <strong><u><span>NETIZEN303</span></u></strong>
                                     </a>
                                     <span> dan rasakan kemudahan menang serta wede konsisten setiap hari!</span>
@@ -12519,7 +12519,7 @@
                     </h4>
                 </div>
                 <div class="modal-body" id="popup_modal_body">
-                    <a href="index.html#" target="_blank" class="popup-thumbnail">
+                    <a href="sobre.php#" target="_blank" class="popup-thumbnail">
                         <img loading="lazy" src="img/cover-netizen303-hoki-2026.jpg" />
                     </a>
                     <p></p>
@@ -12613,7 +12613,7 @@
 
 
 
-        <script src='index.html' defer></script>
+        <script src='sobre.php' defer></script>
         <script type="text/javascript">
             window.addEventListener('DOMContentLoaded', () => {
                 initializeForgotPassword({
@@ -12630,7 +12630,7 @@
 
 
 
-        <script src='index.html' defer></script>
+        <script src='sobre.php' defer></script>
 
         <script defer
             src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
