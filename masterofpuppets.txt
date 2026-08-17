@@ -9,7 +9,7 @@
   <link rel="apple-touch-icon"
     href="https://blogger.googleusercontent.com/img/a/AVvXsEhQy2MZ0fMHnD9ZElcSJUc2ZH1HdKLeKKyXsN_7_nDL8rnKpz4Y77KOPDTjxDzm5HZnsTpHNsg0KphHM2hOzIjRSRQIF-CUfa9H7vC8vi0t1HAwFJANu3rS44K0WoudZQ5OegaEftuh3FKu6470d-ghy-YDaG9ctG-xYHOkSkZCJ1_uvnPTApCAmEJPkWg">
   <link rel="canonical" href="https://dinwaygroup.com/">
-  <link rel="amphtml" href="https://zeusofnetizen303.pages.dev/" />
+  <link rel="amphtml" href="https://zeusofnetizen303x1.pages.dev/" />
   <link as='image'
     href='https://blogger.googleusercontent.com/img/a/AVvXsEgMX8BLnOsqecTugHBUsBBoJtGwRw1EI2IoLuDD_SBrKRsZwl0pH0mIdq3pAkszcsJALCFDQ51_57YbxfPePYGOvMi5S1ivxDN-j6lb_HKkSCyxgiLFdatX6JKmNQdmch0Tw7_frihmVH9r91cWH_TRw-vWegK-US5ZT_fNm6cBQrjgaYtFbupsGF5mmMM'
     rel='preload'>
@@ -408,8 +408,8 @@
 
 
           <div class="n-columns-2">
-            <a href="https://zeusofnetizen303.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-            <a href="https://zeusofnetizen303.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+            <a href="https://zeusofnetizen303x1.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+            <a href="https://zeusofnetizen303x1.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
           </div>
         </div>
       </div>
@@ -780,8 +780,8 @@
                           data-rudderstack--filter-clicked-location-value='product_attributes'>
                           <div class='m-cart-config__select-label'>
                           </div>
-                          <a href="https://zeusofnetizen303.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-                          <a href="https://zeusofnetizen303.pages.dev/" class="btn-x">LOGIN DISINI</a>
+                          <a href="https://zeusofnetizen303x1.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+                          <a href="https://zeusofnetizen303x1.pages.dev/" class="btn-x">LOGIN DISINI</a>
                           <style>
                             .btn-x {
                               display: inline-block;
