@@ -19,7 +19,7 @@
         name="keywords" />
     <meta content="id_ID" property="og:locale" />
     <meta content="website" property="og:type" />
-    <meta content="https://decodif.mg/devis-en-ligne/" property="og:url" />
+    <meta content="https://www.actoresemacao.ao/sobre.php" property="og:url" />
     <meta content="NETIZEN303" property="og:site_name" />
     <meta content="NETIZEN303 &gt;&gt; Slot Pulsa Gacor Gampang Maxwin Wajib Wede Hari Ini! | Daftar Disini"
         property="og:title" />
